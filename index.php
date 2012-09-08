@@ -110,7 +110,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<h3>VUURR Digital</h3>
 			<p>VUURR is a <a href="http://vuurr.com/">Digital Marketing</a> Intelligence firm providing high-end web development, SEO and PPC campaigns with conversion-focused success.</p>
 			<h3>rYnoweb</h3>
-			<p><a href="http://rynoweb.com/">rYnoweb</a> provides on-site SEO engineering, technical WordPress development and implementation, and local search marketing for small business websites.</p>
+			<p><a href="http://rynoweb.com/">rYnoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
 			<h3>UpChuck</h3>
 			<p><a href="http://upchuck.us/">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
 			<hr class="hide_mobile">
