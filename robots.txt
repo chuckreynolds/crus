@@ -1,0 +1,5 @@
+# Robots Rule! - Sometimes... #
+User-agent: *
+Disallow:
+
+Sitemap: http://chuckreynolds.us/sitemap.xml
