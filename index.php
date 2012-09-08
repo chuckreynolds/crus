@@ -10,6 +10,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<title><?php echo($cr_title); ?></title>
 	<meta name="description" content="<?php echo($cr_desc); ?>">
 	<meta name="robots" content="noodp,noydir">
+	<link rel="canonical" href="http://chuckreynolds.us/">
 	<!-- global positioning
      	GeoTag metadata -->
 	<meta name="geo.country" content="US">
@@ -50,14 +51,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<meta property="og:postal-code" content="85225">
 	<meta property="og:country-name" content="USA">
 	<!-- google asynchronous analytics optimized mathiasbynens.be/notes/async-analytics-snippet -->
-	<script>
-		var _gaq=[["_setAccount","UA-1944161-3"],["_trackPageview"]];
-		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-		g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
-		s.parentNode.insertBefore(g,s)}(document,"script"));
-	</script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-	<script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+	<script type="text/javascript">var _gaq = [['_setAccount', 'UA-1944161-3'], ['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
 </head>
 <body>
 <div class="container" itemscope itemtype="http://schema.org/Person">
@@ -76,7 +70,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<br>
 			<img src="http://chuckreynolds.us/chuck_reynolds.jpg" height="95" width="95" alt="Chuck" class="pull-left" itemprop="image"><h2>Providing professional web strategy, digital asset optimization, and local SEO services for individuals and businesses alike.</h2>
 			<br>
-			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking the AZ backcountry, riding the trails on my mountain bike, reading and linking to a lot of useful info. Occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamp Phoenix events <em>(2009 &amp; 2011)</em> and remain involved with the <a href="http://www.meetup.com/Arizona-WordPress-Group/" target="_blank" rel="nofollow">Arizona WordPress Group</a>. In the past, I helped in the growth of PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. I can regularly be found at Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace">collaborative workspace</a> in Downtown <span itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Chandler</span> <span itemprop="addressRegion">AZ</span></span> and donate my time as a <a href="http://gangplankhq.com/mentoring/technology/" title="Technical Mentoring at Gangplank" target="_blank">technical mentor</a> there as well.</p>
+			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking the AZ backcountry, riding the trails on my mountain bike, reading and linking to a lot of useful info. Occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamp Phoenix events <em>(2009 &amp; 2011)</em> and remain involved with the <a href="http://www.meetup.com/Arizona-WordPress-Group/" target="_blank" rel="nofollow">Arizona WordPress Group</a>. In the past, I helped in the growth of PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. I can regularly be found at Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace">collaborative workspace</a> in Downtown <span itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Chandler</span> <span itemprop="addressRegion">AZ</span></span> and donate my time as a <a href="http://chandler.gangplankhq.com/mentoring/technology/" title="Technical Mentoring at Gangplank" target="_blank">technical mentor</a> there as well.</p>
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is NOT:</b></p>
 			<ul class="hide_mobile">
 				<li id="indent_list">Associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
@@ -90,7 +84,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 		<hr class="only_mobile">
 		<div class="span3">
 			<h2>Talk to Chuck</h2>
-			<p><a href="http://twitter.com/chuckreynolds" rel="me" class="twitter-follow-button" data-show-count="false">Follow @ChuckReynolds</a>
+			<p><a href="https://twitter.com/chuckreynolds" rel="me" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @ChuckReynolds</a>
 			<br>
 			email: <script type="text/javascript">
 			//<![CDATA[
@@ -159,18 +153,35 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a>, <a href="http://youtube.com/rynoweb" title="YouTube" rel="me">YouTube</a>, <a href="http://vimeo.com/chuckreynolds" title="Vimeo" rel="me">Vimeo</a>, <a href="http://www.flickr.com/photos/ryno/" title="flickr" rel="me">Flickr</a></li>
 				<li><a href="http://vizualize.me/chuckreynolds" title="Resume as an Infographic">Resume Infographic</a></li>
 				<li><a href="http://sortfolio.com/company/1566-chuck-reynolds" title="Sortfolio Profile" rel="me">Sortfolio Profile</a></li>
-	            <li><a href="http://www.reddit.com/user/ryno/" title="reddit profile" rel="me">Reddit</a>, <a href="http://digg.com/users/ryno" title="Digg" rel="me nofollow">Digg</a>, <a href="http://chuckreynolds.stumbleupon.com/" title="StumbleUpon" rel="me nofollow">StumbleUpon</a></li>
+	            <li><a href="http://www.reddit.com/user/ryno/" title="reddit profile" rel="me">Reddit</a>, <a href="http://chuckreynolds.stumbleupon.com/" title="StumbleUpon" rel="me nofollow">StumbleUpon</a></li>
 	            <li><a href="http://www.last.fm/user/rynoweb" title="Last.fm" rel="me nofollow">Last.fm</a>, <a href="http://www.everytrail.com/profile.php?user_id=95654" title="EveryTrail Profile" rel="me nofollow">EveryTrail</a></li>
 			</ul>
 			
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Gamer Too?</h2>
 			<ul class="hide_mobile">
-				<li>Playstation: <a href="http://profiles.us.playstation.com/playstation/psn/visit/profiles/rYnoRanger" rel="me nofollow" target="_blank">rYnoRanger</a></li>
+				<li>Playstation: <a href="http://profiles.us.playstation.com/playstation/psn/visit/profiles/rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
+				<li>Xbox: <a href="http://live.xbox.com/en-US/Profile?pp=0&GamerTag=rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
 			</ul>
 		</div>
 	</div>
 </div>
+
+<footer class="footer hide_mobile">
+	<div class="arrow_down_low"></div>
+	<div class="container">
+		<h3 id="twitter_status">Latest Tweets from <a href="http://twitter.com/chuckreynolds" rel="me">@chuckreynolds</a>:</h3>
+		<div id="twitter_div">
+			<ul id="twitter_update_list"></ul>
+		</div>
+			<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+			<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/chuckreynolds.json?callback=twitterCallback2&amp;count=3"></script>
+	</div>
+</footer>
+</div>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</body>
+</html>
 <?php /*
 // hide rest because there's too many, until I redesign with ajax div or something
 	
@@ -257,6 +268,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://flook.it/community/chuckreynolds
 	http://www.goodreads.com/chuckreynolds
 	http://people.tribe.net/chuckreynolds
+	http://digg.com/users/ryno
 	http://flavors.me/chuckreynolds
 	http://listorious.com/ChuckReynolds
 	http://feedmaze.com/chuckreynolds
@@ -364,27 +376,3 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://chuckreynolds.jaiku.com
 // end hide -->
 */ ?>
-
-<footer class="footer hide_mobile">
-	<div class="arrow_down_low"></div>
-	<div class="container">
-		<h3 id="twitter_status">Latest Tweets from <a href="http://twitter.com/chuckreynolds" rel="me">@chuckreynolds</a>:</h3>
-		<div id="twitter_div">
-			<ul id="twitter_update_list"></ul>
-		</div>
-			<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
-			<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/chuckreynolds.json?callback=twitterCallback2&amp;count=3"></script>
-		</div>
-</footer>
-</div>
-<script type="text/javascript">
-	(function(){
-	var twitterWidgets = document.createElement('script');
-	twitterWidgets.type = 'text/javascript';
-	twitterWidgets.async = true;
-	twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-	document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-	})();
-</script>
-</body>
-</html>

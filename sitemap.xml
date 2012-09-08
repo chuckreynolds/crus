@@ -3,14 +3,14 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
 	  <loc>http://chuckreynolds.us</loc>
-	  <lastmod>2012-03-07</lastmod>
+	  <lastmod>2012-09-07</lastmod>
 	  <changefreq>monthly</changefreq>
 	  <priority>1.0</priority>
 	</url>
 	<url>
 	  <loc>http://chuckreynolds.us</loc>
 	  <image:image>
-	  	<image:loc>http://s3-us-west-1.amazonaws.com/chuckreynolds/chuck_reynolds.jpg</image:loc>
+	  	<image:loc>http://chuckreynolds.us/chuck_reynolds.jpg</image:loc>
 	  	<image:title>Chuck</image:title>
 	  	<image:caption>Portrait of chuck reynolds</image:caption>
 	  </image:image>
