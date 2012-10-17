@@ -148,6 +148,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<ul class="hide_mobile">
 				<li><a href="http://wpcandy.com/pro/chuck-reynolds" title="WordPress Pro's list" rel="me">WordPress Pro Profile</a></li>
 				<li><a href="http://forrst.com/people/chuckreynolds" title="Forrst Code Snippets" rel="me">Forrst Code Snippets</a></li>
+				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer Profile</a></li>
 				<li><a href="http://klout.com/ChuckReynolds?ref=/plusk/8105/297739" title="Klout +K" rel="me">Give me some +K on Klout</a></li>
 				<li><a href="http://connect.me/users/chuckreynolds" title="Connect.me profile" rel="me">Vouch for Me</a></li>
 				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a>, <a href="http://youtube.com/rynoweb" title="YouTube" rel="me">YouTube</a>, <a href="http://vimeo.com/chuckreynolds" title="Vimeo" rel="me">Vimeo</a>, <a href="http://www.flickr.com/photos/ryno/" title="flickr" rel="me">Flickr</a></li>
@@ -185,6 +186,9 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 <?php /*
 // hide rest because there's too many, until I redesign with ajax div or something
 	
+	http://www.twilio.com/doers/Chuck-Reynolds
+	https://clarity.fm/chuckreynolds
+	https://peerz.net/people/ChuckReynolds
 	http://cauzly.com/chuckreynolds
 	http://lift.do/users/ac2f760a0ece81d4684f
 	http://showw.me/chuckreynolds
