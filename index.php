@@ -163,6 +163,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<ul class="hide_mobile">
 				<li>Playstation: <a href="http://profiles.us.playstation.com/playstation/psn/visit/profiles/rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
 				<li>Xbox: <a href="http://live.xbox.com/en-US/Profile?pp=0&GamerTag=rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
+				<li><a href="http://www.polygon.com/users/chuckreynolds" target="_blank">Polygon</a></li>
 			</ul>
 		</div>
 	</div>
@@ -186,6 +187,8 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 <?php /*
 // hide rest because there's too many, until I redesign with ajax div or something
 	
+	http://instagram.com/chuckreynolds/
+	https://workfu.com/chuckreynolds
 	http://www.twilio.com/doers/Chuck-Reynolds
 	https://clarity.fm/chuckreynolds
 	https://peerz.net/people/ChuckReynolds
