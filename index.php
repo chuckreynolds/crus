@@ -60,7 +60,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 		<div class="span12">
 			<div class="page-header">
 				<h1 itemprop="name" content="Chuck Reynolds">Chuck Reynolds</h1>
-			</div>	
+			</div>
 		</div>
 	</div>
 	<div class="row" id="main">
@@ -134,7 +134,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 				<li><a href="http://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactType">LinkedIn</a></li>
 				<li><a href="http://plus.google.com/117639756690746911490?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
 			</ul>
-			
+
 			<ul class="hide_mobile">
 				<li><a href="https://plus.google.com/117639756690746911490/plusones" title="Google +1" rel="me" itemprop="contactType">Google +1 Resources</a></li>
 				<li><a href="http://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
@@ -144,7 +144,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 					</ul>
 				</li>
 			</ul>
-			
+
 			<ul class="hide_mobile">
 				<li><a href="http://wpcandy.com/pro/chuck-reynolds" title="WordPress Pro's list" rel="me">WordPress Pro Profile</a></li>
 				<li><a href="http://forrst.com/people/chuckreynolds" title="Forrst Code Snippets" rel="me">Forrst Code Snippets</a></li>
@@ -157,7 +157,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	            <li><a href="http://www.reddit.com/user/ryno/" title="reddit profile" rel="me">Reddit</a>, <a href="http://chuckreynolds.stumbleupon.com/" title="StumbleUpon" rel="me nofollow">StumbleUpon</a></li>
 	            <li><a href="http://www.last.fm/user/rynoweb" title="Last.fm" rel="me nofollow">Last.fm</a>, <a href="http://www.everytrail.com/profile.php?user_id=95654" title="EveryTrail Profile" rel="me nofollow">EveryTrail</a></li>
 			</ul>
-			
+
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Gamer Too?</h2>
 			<ul class="hide_mobile">
@@ -172,12 +172,14 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 <footer class="footer hide_mobile">
 	<div class="arrow_down_low"></div>
 	<div class="container">
+		<? /*
 		<h3 id="twitter_status">Latest Tweets from <a href="http://twitter.com/chuckreynolds" rel="me">@chuckreynolds</a>:</h3>
 		<div id="twitter_div">
 			<ul id="twitter_update_list"></ul>
 		</div>
 			<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
 			<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/chuckreynolds.json?callback=twitterCallback2&amp;count=3"></script>
+		*/ ?>
 	</div>
 </footer>
 </div>
@@ -186,7 +188,8 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 </html>
 <?php /*
 // hide rest because there's too many, until I redesign with ajax div or something
-	
+
+	http://peerreach.com/ChuckReynolds
 	http://instagram.com/chuckreynolds/
 	https://workfu.com/chuckreynolds
 	http://www.twilio.com/doers/Chuck-Reynolds
