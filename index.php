@@ -116,6 +116,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Recent Clientele</h2>
 	        <ul class="hide_mobile">
+	        	<li><a href="http://butcherblockco.com" title="Kitchen Butcher Blocks">Kitchen Butcher Blocks</a></li>
 	        	<li>Epiphany <a href="http://epiphanychocolates.com" title="Gourmet Chocolates">Gourmet Chocolates</a></li>
 	        	<li><a href="http://supima.com" title="Supima Cotton Company">Supima Cotton</a></li>
 	        	<li><a href="http://chicagotitlearizona.com" title="Chicago Title Arizona Company">Chicago Title Arizona</a></li>
@@ -146,6 +147,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			</ul>
 
 			<ul class="hide_mobile">
+				<li><a href="http://crowdhall.com/chuckreynolds" title="Chuck on Crowd Hall" rel="me">Ask me Stuff, CrowdHall</a></li>
 				<li><a href="http://wpcandy.com/pro/chuck-reynolds" title="WordPress Pro's list" rel="me">WordPress Pro Profile</a></li>
 				<li><a href="http://forrst.com/people/chuckreynolds" title="Forrst Code Snippets" rel="me">Forrst Code Snippets</a></li>
 				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer Profile</a></li>
