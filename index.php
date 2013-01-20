@@ -116,6 +116,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Recent Clientele</h2>
 	        <ul class="hide_mobile">
+	        	<li><a href="http://connectalytics.com" title="Connectalytics">Connectalytics</a></li>
 	        	<li><a href="http://butcherblockco.com" title="Kitchen Butcher Blocks">Kitchen Butcher Blocks</a></li>
 	        	<li>Epiphany <a href="http://epiphanychocolates.com" title="Gourmet Chocolates">Gourmet Chocolates</a></li>
 	        	<li><a href="http://supima.com" title="Supima Cotton Company">Supima Cotton</a></li>
@@ -131,8 +132,8 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<h2 class="hide_mobile">In the Social</h2>
 			<ul class="hide_mobile">
 				<li><a href="http://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="contactType">Twitter</a></li>
-				<li><a href="http://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactType">Facebook</a></li>
 				<li><a href="http://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactType">LinkedIn</a></li>
+				<li><a href="http://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactType">Facebook</a></li>
 				<li><a href="http://plus.google.com/117639756690746911490?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
 			</ul>
 
