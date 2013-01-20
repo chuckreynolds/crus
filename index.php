@@ -74,7 +74,6 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is NOT:</b></p>
 			<ul class="hide_mobile">
 				<li id="indent_list">Associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
-				<li id="indent_list">Affiliated with the show "<em><a href="http://chuckreynolds.us" rel="author" itemprop="url">Chuck</a></em>" on NBC-even though they copied my life as a secret agent!</li>
 				<li id="indent_list">Receiving any royalties from the Alcoa corporation for the usage of "Reynolds Wrap," and all the grief I got about that name during grade-school (true story).</li>
 				<li id="indent_list">Part of the <a href="http://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
 				<li id="indent_list">The inspiration for the name of the popular <a href="http://refer.ly/abFo/" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
