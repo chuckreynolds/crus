@@ -1,9 +1,9 @@
 <?php
-$cr_title = 'Chuck Reynolds - Web Strategy. WordPress. Technical SEO.';
+$cr_title = 'Chuck Reynolds - Web Strategy. Technical SEO. WordPress.';
 $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and technical SEO services via VUURR and Text Message Marketing via Betwext';
 ?>
 <!DOCTYPE html>
-<html>
+<html prefix="og: http://ogp.me/ns#">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -113,19 +113,28 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<h3>UpChuck</h3>
 			<p><a href="http://upchuck.us/">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
 			<hr class="hide_mobile">
+			<h2 class="hide_mobile">Projects</h2>
+	        <ul class="hide_mobile">
+	        	<li><!-- no peeking, nothing to see here ;) --><a href="" title="TBA Coming in February" itemprop="affiliation">NEW: TBA... :)</a></li>
+	        	<li><a href="http://connectalytics.com" title="Connectalytics" itemprop="affiliation">Connectalytics</a></li>
+	        	<li><a href="http://twimlbin.com" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
+	        	<li><a href="http://whereirank.com" title="Where I Rank" itemprop="affiliation">Where I Rank</a></li>
+	        	<li>Betwext <a href="http://betwext.com" title="Betwext" itemprop="affiliation">SMS Marketing</a></li>
+	        	<li><a href="http://wordpress.org/extend/plugins/wp-facebook-open-graph-protocol/" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">WordPress Open Graph Plugin for Facebook, Google+ and Twitter</a></li>
+	        	<li><a href="http://rynoweb.com/wordpress-plugins/" title="rYnoweb WordPress plugin" itemprop="affiliation">rYnoweb WordPress Plugins</a></li>
+	        </ul>
+	        <?php /*
 			<h2 class="hide_mobile">Recent Clientele</h2>
 	        <ul class="hide_mobile">
-	        	<li><a href="http://connectalytics.com" title="Connectalytics">Connectalytics</a></li>
 	        	<li><a href="http://butcherblockco.com" title="Kitchen Butcher Blocks">Kitchen Butcher Blocks</a></li>
 	        	<li>Epiphany <a href="http://epiphanychocolates.com" title="Gourmet Chocolates">Gourmet Chocolates</a></li>
 	        	<li><a href="http://supima.com" title="Supima Cotton Company">Supima Cotton</a></li>
 	        	<li><a href="http://chicagotitlearizona.com" title="Chicago Title Arizona Company">Chicago Title Arizona</a></li>
-	        	<li><a href="http://vuurr.com" title="VUURR Digital" itemprop="affiliation">VUURR Digital</a></li>
-	        	<li>Betwext <a href="http://betwext.com" title="Betwext" itemprop="affiliation">SMS Marketing</a></li>
 	        	<li><a href="http://www.agencyside.net" title="Agency Side" rel="nofollow">AgencySide</a></li>
 	        	<li><a href="http://convinceandconvert.com" title="Convince and Convert">Convince &amp; Convert</a></li>
 	        	<li><a href="http://1800recycling.com" title="1-800-Recycling" rel="nofollow">1-800-Recycling</a></li>
 	        </ul>
+	        */ ?>
 		</div>
 		<div class="span3 hide_mobile">
 			<h2 class="hide_mobile">In the Social</h2>

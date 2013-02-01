@@ -83,7 +83,7 @@ li{
 	line-height:175%;
 	margin-bottom:10px;
 	font-size:15px;
-	
+
 }
 #indent_list{
 	margin-left:15px;
@@ -113,6 +113,11 @@ p {
 }
 .only_mobile {
   display:none;
+}
+
+/*tap zoom for IE8 shit*/
+canvas {
+    -ms-touch-action: double-tap-zoom;
 }
 
 /*subnav*/
@@ -227,7 +232,7 @@ p {
   .subnav-fixed .nav {
     width:1168px; /* 2px less to account for left/right borders being removed when in fixed mode */
   }
-  
+
   section{
 	margin-top:60px!important;
   }
