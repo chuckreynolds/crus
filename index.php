@@ -116,7 +116,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Projects</h2>
 	        <ul class="hide_mobile">
-	        	<li><!-- no peeking, nothing to see here ;) --><a href="" title="TBA Coming in February" itemprop="affiliation">NEW: TBA... :)</a></li>
+	        	<li><a href="http://leve.rs" title="Levers" itemprop="affiliation">Levers</a></li>
 	        	<li><a href="http://connectalytics.com" title="Connectalytics" itemprop="affiliation">Connectalytics</a></li>
 	        	<li><a href="http://twimlbin.com" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
 	        	<li><a href="http://whereirank.com" title="Where I Rank" itemprop="affiliation">Where I Rank</a></li>
@@ -158,17 +158,17 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			</ul>
 
 			<ul class="hide_mobile">
+				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 				<li><a href="http://crowdhall.com/chuckreynolds" title="Chuck on Crowd Hall" rel="me">Ask me Stuff, CrowdHall</a></li>
 				<li><a href="http://wpcandy.com/pro/chuck-reynolds" title="WordPress Pro's list" rel="me">WordPress Pro Profile</a></li>
+				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Gists Code Snippets</a></li>
 				<li><a href="http://forrst.com/people/chuckreynolds" title="Forrst Code Snippets" rel="me">Forrst Code Snippets</a></li>
 				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer Profile</a></li>
 				<li><a href="http://klout.com/ChuckReynolds?ref=/plusk/8105/297739" title="Klout +K" rel="me">Give me some +K on Klout</a></li>
 				<li><a href="http://connect.me/users/chuckreynolds" title="Connect.me profile" rel="me">Vouch for Me</a></li>
 				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a>, <a href="http://youtube.com/rynoweb" title="YouTube" rel="me">YouTube</a>, <a href="http://vimeo.com/chuckreynolds" title="Vimeo" rel="me">Vimeo</a>, <a href="http://www.flickr.com/photos/ryno/" title="flickr" rel="me">Flickr</a></li>
-				<li><a href="http://vizualize.me/chuckreynolds" title="Resume as an Infographic">Resume Infographic</a></li>
-				<li><a href="http://sortfolio.com/company/1566-chuck-reynolds" title="Sortfolio Profile" rel="me">Sortfolio Profile</a></li>
 	            <li><a href="http://www.reddit.com/user/ryno/" title="reddit profile" rel="me">Reddit</a>, <a href="http://chuckreynolds.stumbleupon.com/" title="StumbleUpon" rel="me nofollow">StumbleUpon</a></li>
-	            <li><a href="http://www.last.fm/user/rynoweb" title="Last.fm" rel="me nofollow">Last.fm</a>, <a href="http://www.everytrail.com/profile.php?user_id=95654" title="EveryTrail Profile" rel="me nofollow">EveryTrail</a></li>
+	            <li><a href="http://www.everytrail.com/profile.php?user_id=95654" title="EveryTrail Profile" rel="me nofollow">EveryTrail</a></li>
 			</ul>
 
 			<hr class="hide_mobile">
@@ -254,10 +254,12 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://threewords.me/chuckreynolds
 	http://www.zerply.com/profile/chuckreynolds
 	http://cardcloud.com/chuckreynolds
+	http://vizualize.me/chuckreynolds
 	http://connect.me/chuckreynolds
 	http://eightbit.me/ChuckReynolds
 	http://www.paygr.com/chuckreynolds
 	http://stackoverflow.com/users/630706/chuck-reynolds
+	http://sortfolio.com/company/1566-chuck-reynolds
 	http://forrst.me/chuckreynolds/posts
 	http://facto.me/chuckreynolds
 	http://brightkite.com/people/chuckreynolds
@@ -377,6 +379,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://ma.gnolia.com/people/ryno
 	http://www.mixx.com/users/rynoweb
 	http://reddit.com/user/ryno
+	http://www.last.fm/user/rynoweb
 	http://www.propeller.com/member/ryno
 	http://www.amazon.com/gp/pdp/profile/A1OCSXTI8JCI73
 	http://mugshot.org/person?who=RFAp3JZKPKA7Fd
