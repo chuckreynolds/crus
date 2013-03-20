@@ -26,6 +26,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<meta name="tgn.nation" content="United States">
 	<!-- // end global positioning -->
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
+	<link rel="alternate" type="application/rss+xml" title="Vuurr - Digital Consulting Services" href="http://vuurr.com/feed">
 	<link rel="alternate" type="application/rss+xml" title="rYnoweb.com Company blog" href="http://rynoweb.com/feed">
 	<link rel="alternate" type="application/rss+xml" title="UpChuck - Atypical posts from an Average Chuck" href="http://upchuck.us/feed">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
@@ -140,13 +141,14 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<h2 class="hide_mobile">In the Social</h2>
 			<ul class="hide_mobile">
 				<li><a href="http://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="contactType">Twitter</a></li>
+				<li><a href="http://app.net/chuckreynolds" title="App .net" rel="me" itemprop="contactType">App.net</a></li>
 				<li><a href="http://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactType">LinkedIn</a></li>
 				<li><a href="http://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactType">Facebook</a></li>
-				<li><a href="http://plus.google.com/117639756690746911490?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
+				<li><a href="http://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
 			</ul>
 
 			<ul class="hide_mobile">
-				<li><a href="https://plus.google.com/117639756690746911490/plusones" title="Google +1" rel="me" itemprop="contactType">Google +1 Resources</a></li>
+				<li><a href="https://plus.google.com/+ChuckReynolds/plusones" title="Google +1" rel="me" itemprop="contactType">Google +1 Resources</a></li>
 				<li><a href="http://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
 						<li><a href="http://delicious.com/chuckreynolds/wordpress/">WordPress Resources</a></li>
