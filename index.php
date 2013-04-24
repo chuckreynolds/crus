@@ -201,6 +201,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 </html>
 <?php /*
 // hide rest because there's too many, until I redesign with ajax div or something
+	http://greatist.com/p/chuckreynolds
 	http://www.startupgenome.com/chuck-reynolds
 	http://statuschart.com/chuckreynolds
 	http://purplelist.com/chuck.reynolds
