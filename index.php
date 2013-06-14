@@ -201,6 +201,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 </html>
 <?php /*
 // hide rest because there's too many, until I redesign with ajax div or something
+	http://www.popexpert.com/chuck-reynolds
 	http://www.smartercontent.org/author/chuckreynolds/
 	http://www.enthuse.me/chuckreynolds
 	http://greatist.com/p/chuckreynolds
@@ -210,10 +211,10 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://tapiture.com/user/chuckreynolds
 	http://peerreach.com/ChuckReynolds
 	http://instagram.com/chuckreynolds
-	https://workfu.com/chuckreynolds
+	http://workfu.com/chuckreynolds
 	http://www.twilio.com/doers/Chuck-Reynolds
-	https://clarity.fm/chuckreynolds
-	https://peerz.net/people/ChuckReynolds
+	http://clarity.fm/chuckreynolds
+	http://peerz.net/people/ChuckReynolds
 	http://cauzly.com/chuckreynolds
 	http://lift.do/users/ac2f760a0ece81d4684f
 	http://showw.me/chuckreynolds
@@ -224,10 +225,10 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://www.houzz.com/user/chuckreynolds
 	http://www.starnow.com/chuckreynolds
 	http://rebelmouse.com/chuckreynolds
-	https://recmnd.me/at/chuck
+	http://recmnd.me/at/chuck
 	http://www.attrakt.com/chuckreynolds/chuck-reynolds/people/en
-	https://app.speakerfile.com/speaker/chuck.reynolds
-	https://pinwheel.com/chuckreynolds
+	http://app.speakerfile.com/speaker/chuck.reynolds
+	http://pinwheel.com/chuckreynolds
 	http://chuckreynolds.brandyourself.com
 	http://www.thisismyjam.com/chuckreynolds
 	http://inbound.org/member/ChuckReynolds
@@ -235,7 +236,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://del.icio.us/chuckreynolds
 	http://summify.com/ChuckReynolds/
 	http://www.google.com/reader/shared/rynoweb
-	https://secure.caplinked.com/users/chuck-reynolds
+	http://secure.caplinked.com/users/chuck-reynolds
 	http://protocol.by/chuck
 	http://talent.me/chuck-reynolds
 	http://introfly.com/chuckreynolds
