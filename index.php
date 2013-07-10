@@ -10,7 +10,6 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<title><?php echo($cr_title); ?></title>
 	<meta name="description" content="<?php echo($cr_desc); ?>">
 	<meta name="robots" content="noodp,noydir">
-	<link rel="canonical" href="http://chuckreynolds.us/">
 	<!-- global positioning
      	GeoTag metadata -->
 	<meta name="geo.country" content="US">
@@ -26,7 +25,9 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<meta name="tgn.nation" content="United States">
 	<!-- // end global positioning -->
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
+	<link rel="canonical" href="http://chuckreynolds.us/">
 	<link rel="alternate" type="application/rss+xml" title="Vuurr - Digital Consulting Services" href="http://vuurr.com/feed">
+	<link rel="alternate" type="application/rss+xml" title="Levers - Predictive Analytics" href="http://leve.rs/feed">
 	<link rel="alternate" type="application/rss+xml" title="rYnoweb.com Company blog" href="http://rynoweb.com/feed">
 	<link rel="alternate" type="application/rss+xml" title="UpChuck - Atypical posts from an Average Chuck" href="http://upchuck.us/feed">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
@@ -51,6 +52,14 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<meta property="og:region" content="AZ">
 	<meta property="og:postal-code" content="85225">
 	<meta property="og:country-name" content="USA">
+	<!-- twitter card -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="chuckreynolds">
+	<meta name="twitter:title" content="Web Strategy. Technical SEO. WordPress.">
+	<meta name="twitter:description" content="An internet engineer of things; a technical search engine optimizer and overall digital architect and strategist for internet focused businesses.">
+	<meta name="twitter:creator" content="chuckreynolds">
+	<meta name="twitter:image:src" content="http://chuckreynolds.us/chuck_reynolds.jpg">
+	<meta name="twitter:domain" content="ChuckReynolds.us">
 	<!-- google asynchronous analytics optimized mathiasbynens.be/notes/async-analytics-snippet -->
 	<script type="text/javascript">var _gaq = [['_setAccount', 'UA-1944161-3'], ['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
 </head>
