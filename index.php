@@ -150,7 +150,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<h2 class="hide_mobile">In the Social</h2>
 			<ul class="hide_mobile">
 				<li><a href="http://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="contactType">Twitter</a></li>
-				<li><a href="http://app.net/chuckreynolds" title="App .net" rel="me" itemprop="contactType">App.net</a></li>
+				<li><a href="https://alpha.app.net/chuckreynolds" title="App .net" rel="me" itemprop="contactType">App.net</a></li>
 				<li><a href="http://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactType">LinkedIn</a></li>
 				<li><a href="http://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactType">Facebook</a></li>
 				<li><a href="http://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
