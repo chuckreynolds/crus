@@ -116,21 +116,21 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			while(x=eval(x));}hiveware_enkoder();
 			//]]>
 			</script></p>
-			<h3>VUURR Digital</h3>
-			<p>VUURR is a <a href="http://vuurr.com/">Digital Marketing</a> Intelligence firm providing high-end web development, SEO and PPC campaigns with conversion-focused success.</p>
+			<h3>Levers</h3>
+			<p><a href="http://leve.rs" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing prediction modeling and forecasting to your digital marketing strategy.</p>
+			<h3>Vuurr Digital</h3>
+			<p>Vuurr is a <a href="http://vuurr.com/" title="Vuurr" itemprop="affiliation">Digital Marketing</a> Intelligence firm providing high-end web development, SEO and PPC campaigns with conversion-focused success.</p>
 			<h3>rYnoweb</h3>
-			<p><a href="http://rynoweb.com/">rYnoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
+			<p><a href="http://rynoweb.com/" title="rYnoweb" itemprop="affiliation">rYnoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
 			<h3>UpChuck</h3>
-			<p><a href="http://upchuck.us/">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
+			<p><a href="http://upchuck.us/" title="Upchuck blog" itemprop="affiliation">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Projects</h2>
 	        <ul class="hide_mobile">
-	        	<li><a href="http://leve.rs" title="Levers" itemprop="affiliation">Levers</a></li>
-	        	<li><a href="http://connectalytics.com" title="Connectalytics" itemprop="affiliation">Connectalytics</a></li>
 	        	<li><a href="http://twimlbin.com" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
 	        	<li><a href="http://whereirank.com" title="Where I Rank" itemprop="affiliation">Where I Rank</a></li>
 	        	<li>Betwext <a href="http://betwext.com" title="Betwext" itemprop="affiliation">SMS Marketing</a></li>
-	        	<li><a href="http://wordpress.org/extend/plugins/wp-facebook-open-graph-protocol/" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">WordPress Open Graph Plugin for Facebook, Google+ and Twitter</a></li>
+	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">WordPress Open Graph Plugin for Facebook, Google+ and Twitter</a></li>
 	        	<li><a href="http://rynoweb.com/wordpress-plugins/" title="rYnoweb WordPress plugin" itemprop="affiliation">rYnoweb WordPress Plugins</a></li>
 	        </ul>
 	        <?php /*
@@ -167,11 +167,11 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			</ul>
 
 			<ul class="hide_mobile">
+				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Gists Code Snippets</a></li>
+				<li><a href="http://forrst.com/people/chuckreynolds" title="Forrst Code Snippets" rel="me">Forrst Code Snippets</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 				<li><a href="http://crowdhall.com/chuckreynolds" title="Chuck on Crowd Hall" rel="me">Ask me Stuff, CrowdHall</a></li>
 				<li><a href="http://wpcandy.com/pro/chuck-reynolds" title="WordPress Pro's list" rel="me">WordPress Pro Profile</a></li>
-				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Gists Code Snippets</a></li>
-				<li><a href="http://forrst.com/people/chuckreynolds" title="Forrst Code Snippets" rel="me">Forrst Code Snippets</a></li>
 				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer Profile</a></li>
 				<li><a href="http://klout.com/ChuckReynolds?ref=/plusk/8105/297739" title="Klout +K" rel="me">Give me some +K on Klout</a></li>
 				<li><a href="http://connect.me/users/chuckreynolds" title="Connect.me profile" rel="me">Vouch for Me</a></li>
@@ -185,7 +185,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<ul class="hide_mobile">
 				<li>Playstation: <a href="http://profiles.us.playstation.com/playstation/psn/visit/profiles/rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
 				<li>Xbox: <a href="http://live.xbox.com/en-US/Profile?pp=0&GamerTag=rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
-				<li><a href="http://www.polygon.com/users/chuckreynolds" target="_blank">Polygon</a></li>
+				<li>LoL: <a href="http://signup.leagueoflegends.com/?ref=5222629ec0703471180907" rel="nofollow" target="_blank">rYnoRanger</a></li>
 			</ul>
 		</div>
 	</div>
@@ -227,6 +227,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://peerz.net/people/ChuckReynolds
 	http://cauzly.com/chuckreynolds
 	http://lift.do/users/ac2f760a0ece81d4684f
+	http://www.polygon.com/users/chuckreynolds
 	http://showw.me/chuckreynolds
 	http://www.vizify.com/chuckreynolds
 	http://www.codeschool.com/users/chuckreynolds
