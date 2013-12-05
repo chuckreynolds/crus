@@ -116,6 +116,12 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			while(x=eval(x));}hiveware_enkoder();
 			//]]>
 			</script></p>
+			
+			<h3>Support / Donation</h3>
+			<p>Have I helped you in the past?<br>
+			- Thanks in advance!<br>
+			<a class="coinbase-button" data-code="45de7b3536ab9f2298bd4cee0d71e0db" data-button-style="donation_small" href="https://coinbase.com/checkouts/45de7b3536ab9f2298bd4cee0d71e0db">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script></p>
+
 			<h3>Levers</h3>
 			<p><a href="http://leve.rs" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing prediction modeling and forecasting to your digital marketing strategy.</p>
 			<h3>Vuurr Digital</h3>
