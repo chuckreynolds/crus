@@ -13,15 +13,15 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<!-- global positioning
      	GeoTag metadata -->
 	<meta name="geo.country" content="US">
-	<meta name="geo.region" content="US-AZ">
-	<meta name="geo.placename" content="Chandler, AZ 85255, USA">
-	<meta name="geo.position" content="33.299671, -111.841882">
+	<meta name="geo.region" content="US-CA">
+	<meta name="geo.placename" content="SAN FRANCISCO, CA 94103, USA">
+	<meta name="geo.position" content="37.77167, -122.41348">
 	<!-- GeoURL metadata -->
-	<meta name="ICBM" content="33.299671, -111.841882">
+	<meta name="ICBM" content="37.77167, -122.41348">
 	<meta name="DC.title" content="<?php echo($cr_desc); ?>">
 	<!-- Getty Thesaurus of Geographic Names (TGN) metadata -->
-	<meta name="tgn.id" content="2006646">
-	<meta name="tgn.name" content="Chandler">
+	<meta name="tgn.id" content="2013951">
+	<meta name="tgn.name" content="Nob Hill">
 	<meta name="tgn.nation" content="United States">
 	<!-- // end global positioning -->
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
@@ -46,11 +46,11 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<meta property="og:image" content="http://chuckreynolds.us/chuck_reynolds.jpg">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:email" content="talkto@chuckreynolds.us">
-	<meta property="og:latitude" content="33.299671">
-	<meta property="og:longitude" content="-111.841882">
-	<meta property="og:locality" content="Chandler">
-	<meta property="og:region" content="AZ">
-	<meta property="og:postal-code" content="85225">
+	<meta property="og:latitude" content="37.77167">
+	<meta property="og:longitude" content="-122.41348">
+	<meta property="og:locality" content="San Francisco">
+	<meta property="og:region" content="CA">
+	<meta property="og:postal-code" content="94103">
 	<meta property="og:country-name" content="USA">
 	<!-- twitter card -->
 	<meta name="twitter:card" content="summary">
@@ -86,7 +86,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 				<li id="indent_list">Associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
 				<li id="indent_list">Receiving any royalties from the Alcoa corporation for the usage of "Reynolds Wrap," and all the grief I got about that name during grade-school (true story).</li>
 				<li id="indent_list">Part of the <a href="http://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
-				<li id="indent_list">The inspiration for the name of the popular <a href="http://refer.ly/abFo/" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
+				<li id="indent_list">The inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
 			</ul>
 			<p>Feel free to add and follow me, and be sure to socialize and say "Hi" -lurking doesn't get you anywhere. The best way to get my attention is email, not the phone. I will reply, not always quickly, but I will get to it. I don't answer the phone or check voicemails, and I stay off chat services. Now you know how to get in touch, and knowing is half the battle... G.I Joe</p>
 		</div>
