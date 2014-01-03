@@ -123,21 +123,21 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			<a class="coinbase-button" data-code="45de7b3536ab9f2298bd4cee0d71e0db" data-button-style="donation_small" href="https://coinbase.com/checkouts/45de7b3536ab9f2298bd4cee0d71e0db">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script></p>
 
 			<h3>Levers</h3>
-			<p><a href="http://leve.rs" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing prediction modeling and forecasting to your digital marketing strategy.</p>
+			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing prediction modeling and forecasting to your digital marketing strategy.</p>
 			<h3>Vuurr Digital</h3>
-			<p>Vuurr is a <a href="http://vuurr.com/" title="Vuurr" itemprop="affiliation">Digital Marketing</a> Intelligence firm providing high-end web development, SEO and PPC campaigns with conversion-focused success.</p>
+			<p>Vuurr is a <a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr" itemprop="affiliation">Digital Marketing</a> Intelligence firm providing high-end web development, SEO and PPC campaigns with conversion-focused success.</p>
 			<h3>rYnoweb</h3>
-			<p><a href="http://rynoweb.com/" title="rYnoweb" itemprop="affiliation">rYnoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
+			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="rYnoweb" itemprop="affiliation">rYnoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
 			<h3>UpChuck</h3>
-			<p><a href="http://upchuck.us/" title="Upchuck blog" itemprop="affiliation">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
+			<p><a href="http://upchuck.us/?utm_source=chuckreynolds.us" title="Upchuck blog" itemprop="affiliation">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Projects</h2>
 	        <ul class="hide_mobile">
-	        	<li><a href="http://twimlbin.com" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
-	        	<li><a href="http://whereirank.com" title="Where I Rank" itemprop="affiliation">Where I Rank</a></li>
-	        	<li>Betwext <a href="http://betwext.com" title="Betwext" itemprop="affiliation">SMS Marketing</a></li>
-	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">WordPress Open Graph Plugin for Facebook, Google+ and Twitter</a></li>
-	        	<li><a href="http://rynoweb.com/wordpress-plugins/" title="rYnoweb WordPress plugin" itemprop="affiliation">rYnoweb WordPress Plugins</a></li>
+	        	<li><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
+	        	<li><a href="http://whereirank.com/?utm_source=chuckreynolds.us" title="Where I Rank" itemprop="affiliation">Where I Rank</a></li>
+	        	<li>Betwext <a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation">SMS Marketing</a></li>
+	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">WordPress Open Graph Plugin for Facebook, Google+ and Twitter</a></li>
+	        	<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="rYnoweb WordPress plugin" itemprop="affiliation">rYnoweb WordPress Plugins</a></li>
 	        </ul>
 	        <?php /*
 			<h2 class="hide_mobile">Recent Clientele</h2>
