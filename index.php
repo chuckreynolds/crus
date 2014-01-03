@@ -216,6 +216,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 </html>
 <?php /*
 // hide rest because there's too many, until I redesign with ajax div or something
+	http://www.keek.com/chuckreynolds
 	http://www.songkick.com/users/chuckreynolds
 	http://sosh.com/members/chuckreynolds/
 	http://www.snapscore.me/chuckreynolds
