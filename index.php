@@ -15,9 +15,9 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<meta name="geo.country" content="US">
 	<meta name="geo.region" content="US-CA">
 	<meta name="geo.placename" content="SAN FRANCISCO, CA 94103, USA">
-	<meta name="geo.position" content="37.77167, -122.41348">
+	<meta name="geo.position" content="37.771559, -122.413589">
 	<!-- GeoURL metadata -->
-	<meta name="ICBM" content="37.77167, -122.41348">
+	<meta name="ICBM" content="37.771559, -122.413589">
 	<meta name="DC.title" content="<?php echo($cr_desc); ?>">
 	<!-- Getty Thesaurus of Geographic Names (TGN) metadata -->
 	<meta name="tgn.id" content="2013951">
@@ -46,8 +46,8 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<meta property="og:image" content="http://chuckreynolds.us/chuck_reynolds.jpg">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:email" content="talkto@chuckreynolds.us">
-	<meta property="og:latitude" content="37.77167">
-	<meta property="og:longitude" content="-122.41348">
+	<meta property="og:latitude" content="37.771559">
+	<meta property="og:longitude" content="-122.413589">
 	<meta property="og:locality" content="San Francisco">
 	<meta property="og:region" content="CA">
 	<meta property="og:postal-code" content="94103">
