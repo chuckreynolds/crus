@@ -60,8 +60,14 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<meta name="twitter:creator" content="chuckreynolds">
 	<meta name="twitter:image:src" content="http://chuckreynolds.us/chuck_reynolds.jpg">
 	<meta name="twitter:domain" content="ChuckReynolds.us">
-	<!-- google asynchronous analytics optimized mathiasbynens.be/notes/async-analytics-snippet -->
-	<script type="text/javascript">var _gaq = [['_setAccount', 'UA-1944161-3'], ['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1944161-3', 'chuckreynolds.us');
+  ga('send', 'pageview');
+</script>
 </head>
 <body>
 <div class="container" itemscope itemtype="http://schema.org/Person">
