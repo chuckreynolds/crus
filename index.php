@@ -226,7 +226,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	http://www.songkick.com/users/chuckreynolds
 	http://sosh.com/members/chuckreynolds/
 	http://www.snapscore.me/chuckreynolds
-	http://beta.nuzzel.com/ChuckReynolds
+	http://nuzzel.com/ChuckReynolds
 	http://www.popexpert.com/chuck-reynolds
 	http://www.smartercontent.org/author/chuckreynolds/
 	http://www.enthuse.me/chuckreynolds
