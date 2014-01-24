@@ -82,7 +82,7 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<div class="row" id="main">
 		<div class="span6">
 			<h2>Who exactly is Chuck?</h2>
-			<p>Hi, I'm Chuck Reynolds. I'm here to provide professional <span itemprop="jobTitle">web strategy, digital asset optimization</span> (DAO &amp; SEO), and local services for individuals and businesses alike. I'm the WordPress Engineer in Arizona and available for hire doing WordPress development and customization. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects-so get in touch if you'd like a proper implementation.</p>
+			<p>Hi, I'm Chuck Reynolds. I'm here to provide professional <span itemprop="jobTitle">web strategy, technical on-site SEO, and conversion optimization</span> services for individuals and businesses alike. I'm the WordPress Engineer in Arizona and available for hire doing WordPress development and customization. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects-so get in touch if you'd like a proper implementation.</p>
 			<br>
 			<img src="http://chuckreynolds.us/chuck_reynolds.jpg" height="95" width="95" alt="Chuck" class="pull-left" itemprop="image"><h2>Providing professional web strategy, digital asset optimization, and local SEO services for individuals and businesses alike.</h2>
 			<br>
@@ -217,7 +217,9 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	</div>
 </footer>
 </div>
+<? /*
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+*/ ?>
 </body>
 </html>
-<?php /* list exists here now: https://gist.github.com/chuckreynolds/4227ee3ad9536bc1a02e */ ?>
+<? /* list exists here now: https://gist.github.com/chuckreynolds/4227ee3ad9536bc1a02e */ ?>
