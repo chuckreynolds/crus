@@ -1,17 +1,16 @@
 <?php
 $cr_title = 'Chuck Reynolds - Web Strategy. Technical SEO. WordPress.';
-$cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and technical SEO services via VUURR and Text Message Marketing via Betwext';
+$cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optimization solutions based in San Francisco';
 ?>
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns#">
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php echo($cr_title); ?></title>
 	<meta name="description" content="<?php echo($cr_desc); ?>">
 	<meta name="robots" content="noodp,noydir">
-	<!-- global positioning
-     	GeoTag metadata -->
+	<!-- global positioning GeoTag metadata -->
 	<meta name="geo.country" content="US">
 	<meta name="geo.region" content="US-CA">
 	<meta name="geo.placename" content="SAN FRANCISCO, CA 94103, USA">
@@ -26,16 +25,16 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	<!-- // end global positioning -->
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
 	<link rel="canonical" href="http://chuckreynolds.us/">
-	<link rel="alternate" type="application/rss+xml" title="Vuurr - Digital Consulting Services" href="http://vuurr.com/feed">
 	<link rel="alternate" type="application/rss+xml" title="Levers - Predictive Analytics" href="http://leve.rs/feed">
 	<link rel="alternate" type="application/rss+xml" title="rYnoweb.com Company blog" href="http://rynoweb.com/feed">
 	<link rel="alternate" type="application/rss+xml" title="UpChuck - Atypical posts from an Average Chuck" href="http://upchuck.us/feed">
+	<link rel="alternate" type="application/rss+xml" title="Vuurr - Digital Consulting Services" href="http://vuurr.com/feed">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap_extensions.css">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap-responsive.min.css">
 	<link rel="stylesheet" href="fonts/bebas-neue-fontfacekit/stylesheet.css">
 	<link rel="stylesheet" href="fonts/fanwood-fontfacekit/stylesheet.css">
-	<!-- facebook opengraph protocol -->
+	<!-- facebook open graph protocol -->
 	<meta property="fb:app_id" content="137499412985957">
 	<meta property="fb:admins" content="507282144">
 	<meta property="og:url" content="http://chuckreynolds.us">
@@ -124,9 +123,9 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 			</script></p>
 
 			<h3>Levers</h3>
-			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing prediction modeling and forecasting to your digital marketing strategy.</p>
+			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
 			<h3>Vuurr Digital</h3>
-			<p>Vuurr is a <a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr" itemprop="affiliation">Digital Marketing</a> Intelligence firm providing high-end web development, SEO and PPC campaigns with conversion-focused success.</p>
+			<p><a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr" itemprop="affiliation">Vuurr</a> is a Digital Marketing Intelligence firm providing premium web application development, analytics &amp; ppc auditing and conversion optimization services.</p>
 			<h3>rYnoweb</h3>
 			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="rYnoweb" itemprop="affiliation">rYnoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
 			<h3>UpChuck</h3>
@@ -140,18 +139,6 @@ $cr_desc = 'Chuck Reynolds provides web strategy, WordPress development and tech
 	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">WordPress Open Graph Plugin for Facebook, Google+ and Twitter</a></li>
 	        	<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="rYnoweb WordPress plugin" itemprop="affiliation">rYnoweb WordPress Plugins</a></li>
 	        </ul>
-	        <?php /*
-			<h2 class="hide_mobile">Recent Clientele</h2>
-	        <ul class="hide_mobile">
-	        	<li><a href="http://butcherblockco.com" title="Kitchen Butcher Blocks">Kitchen Butcher Blocks</a></li>
-	        	<li>Epiphany <a href="http://epiphanychocolates.com" title="Gourmet Chocolates">Gourmet Chocolates</a></li>
-	        	<li><a href="http://supima.com" title="Supima Cotton Company">Supima Cotton</a></li>
-	        	<li><a href="http://chicagotitlearizona.com" title="Chicago Title Arizona Company">Chicago Title Arizona</a></li>
-	        	<li><a href="http://www.agencyside.net" title="Agency Side" rel="nofollow">AgencySide</a></li>
-	        	<li><a href="http://convinceandconvert.com" title="Convince and Convert">Convince &amp; Convert</a></li>
-	        	<li><a href="http://1800recycling.com" title="1-800-Recycling" rel="nofollow">1-800-Recycling</a></li>
-	        </ul>
-	        */ ?>
 		</div>
 		<div class="span3 hide_mobile">
 			<h2 class="hide_mobile">In the Social</h2>
