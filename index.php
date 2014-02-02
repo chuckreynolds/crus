@@ -164,7 +164,6 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 				<li><a href="http://forrst.com/people/chuckreynolds" title="Forrst Code Snippets" rel="me">Forrst Code Snippets</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 				<li><a href="http://crowdhall.com/chuckreynolds" title="Chuck on Crowd Hall" rel="me">Ask me Stuff, CrowdHall</a></li>
-				<li><a href="http://wpcandy.com/pro/chuck-reynolds" title="WordPress Pro's list" rel="me">WordPress Pro Profile</a></li>
 				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer Profile</a></li>
 				<li><a href="http://klout.com/ChuckReynolds?ref=/plusk/8105/297739" title="Klout +K" rel="me">Give me some +K on Klout</a></li>
 				<li><a href="http://connect.me/users/chuckreynolds" title="Connect.me profile" rel="me">Vouch for Me</a></li>
