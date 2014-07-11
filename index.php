@@ -80,8 +80,8 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 	</div>
 	<div class="row" id="main">
 		<div class="span6">
-			<h2>Who exactly is Chuck?</h2>
-			<p>Hi, I'm Chuck Reynolds. I'm here to provide professional <span itemprop="jobTitle">web strategy, technical on-site SEO, and conversion optimization</span> services for individuals and businesses alike. I'm the WordPress Engineer in Arizona and available for hire doing WordPress development and customization. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects-so get in touch if you'd like a proper implementation.</p>
+			<h2>Who is Chuck Reynolds?</h2>
+			<p>Hi, my name is Chuck. I'm here to provide professional <span itemprop="jobTitle">web strategy, technical on-site SEO, and conversion optimization</span> services for individuals and businesses alike. I'm the WordPress Engineer in Arizona and available for hire doing WordPress development and customization. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects-so get in touch if you'd like a proper implementation.</p>
 			<br>
 			<img src="http://chuckreynolds.us/chuck_reynolds.jpg" height="95" width="95" alt="Chuck" class="pull-left" itemprop="image"><h2>Providing professional web strategy, digital asset optimization, and local SEO services for individuals and businesses alike.</h2>
 			<br>
