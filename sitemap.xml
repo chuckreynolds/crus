@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
-	  <loc>http://chuckreynolds.us</loc>
+	  <loc>https://chuckreynolds.us</loc>
 	  <lastmod>2014-01-24</lastmod>
 	  <changefreq>monthly</changefreq>
 	  <priority>1.0</priority>
 	</url>
 	<url>
-	  <loc>http://chuckreynolds.us</loc>
+	  <loc>https://chuckreynolds.us</loc>
 	  <image:image>
-	  	<image:loc>http://chuckreynolds.us/chuck_reynolds.jpg</image:loc>
+	  	<image:loc>https://chuckreynolds.us/chuck_reynolds.jpg</image:loc>
 	  	<image:title>Chuck</image:title>
 	  	<image:caption>Portrait of chuck reynolds</image:caption>
 	  </image:image>
