@@ -59,6 +59,20 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 	<meta name="twitter:creator" content="chuckreynolds">
 	<meta name="twitter:image:src" content="https://chuckreynolds.us/chuck_reynolds.jpg">
 	<meta name="twitter:domain" content="ChuckReynolds.us">
+	<!-- google social profiles markup
+		 https://developers.google.com/webmasters/structured-data/customize/social-profiles -->
+	<script type="application/ld+json">
+	{ "@context" : "http://schema.org",
+	  "@type" : "Person",
+	  "name" : "Chuck Reynolds",
+	  "url" : "https://chuckreynolds.us",
+	  "sameAs" : [ "https://twitter.com/chuckreynolds",
+	      "https://www.linkedin.com/in/chuckreynolds",
+	      "https://www.facebook.com/chuckreynolds",
+	      "https://plus.google.com/+chuckreynolds",
+	      "http://instagram.com/chuckreynolds"]
+	}
+	</script>
 </head>
 <body>
 <!-- Google Tag Manager -->
