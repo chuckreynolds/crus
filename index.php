@@ -162,11 +162,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactType">LinkedIn</a></li>
 				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactType">Facebook</a></li>
 				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
+				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 			</ul>
 
 			<ul class="hide_mobile">
 				<li><a href="https://plus.google.com/+ChuckReynolds/plusones" title="Google +1" rel="me" itemprop="contactType">Google +1 Resources</a></li>
-				<li><a href="http://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
+				<li><a href="https://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
 						<li><a href="https://delicious.com/chuckreynolds/wordpress">WordPress Resources</a></li>
 						<li><a href="https://delicious.com/chuckreynolds/seotools">SEO Tools Links</a></li>
@@ -175,22 +176,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</ul>
 
 			<ul class="hide_mobile">
-				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Gists Code Snippets</a></li>
-				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
-				<li><a href="http://crowdhall.com/chuckreynolds" title="Chuck on Crowd Hall" rel="me">Ask me Stuff, CrowdHall</a></li>
-				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer Profile</a></li>
-				<li><a href="http://klout.com/ChuckReynolds?ref=/plusk/8105/297739" title="Klout +K" rel="me">Give me some +K on Klout</a></li>
-				<li><a href="http://connect.me/users/chuckreynolds" title="Connect.me profile" rel="me">Vouch for Me</a></li>
-				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a>, <a href="http://youtube.com/rynoweb" title="YouTube" rel="me">YouTube</a>, <a href="http://vimeo.com/chuckreynolds" title="Vimeo" rel="me">Vimeo</a>, <a href="http://www.flickr.com/photos/ryno/" title="flickr" rel="me">Flickr</a></li>
-	            <li><a href="http://www.reddit.com/user/ryno/" title="reddit profile" rel="me">Reddit</a>, <a href="http://chuckreynolds.stumbleupon.com/" title="StumbleUpon" rel="me nofollow">StumbleUpon</a></li>
+				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
+				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer</a></li>
+				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a></li>
+				<li><a href="https://www.youtube.com/user/rynoweb" title="YouTube" rel="me">YouTube</a></li>
 			</ul>
 
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Gamer Too?</h2>
 			<ul class="hide_mobile">
-				<li>Playstation: <a href="http://profiles.us.playstation.com/playstation/psn/visit/profiles/rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
-				<li>Xbox: <a href="http://live.xbox.com/en-US/Profile?pp=0&GamerTag=rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
-				<li>LoL: <a href="http://signup.leagueoflegends.com/?ref=5222629ec0703471180907" rel="nofollow" target="_blank">rYnoRanger</a></li>
+				<li>PSN: <a href="http://profiles.us.playstation.com/playstation/psn/visit/profiles/rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a> (Destiny)</li>
+				<?php /* <li>Xbox: <a href="http://live.xbox.com/en-US/Profile?pp=0&GamerTag=rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
+				<li>LoL: <a href="http://signup.leagueoflegends.com/?ref=5222629ec0703471180907" rel="nofollow" target="_blank">rYnoRanger</a></li> */ ?>
 			</ul>
 		</div>
 	</div>
