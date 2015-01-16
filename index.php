@@ -176,7 +176,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 			<ul class="hide_mobile">
 				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Gists Code Snippets</a></li>
-				<li><a href="http://forrst.com/people/chuckreynolds" title="Forrst Code Snippets" rel="me">Forrst Code Snippets</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 				<li><a href="http://crowdhall.com/chuckreynolds" title="Chuck on Crowd Hall" rel="me">Ask me Stuff, CrowdHall</a></li>
 				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer Profile</a></li>
@@ -184,7 +183,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="http://connect.me/users/chuckreynolds" title="Connect.me profile" rel="me">Vouch for Me</a></li>
 				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a>, <a href="http://youtube.com/rynoweb" title="YouTube" rel="me">YouTube</a>, <a href="http://vimeo.com/chuckreynolds" title="Vimeo" rel="me">Vimeo</a>, <a href="http://www.flickr.com/photos/ryno/" title="flickr" rel="me">Flickr</a></li>
 	            <li><a href="http://www.reddit.com/user/ryno/" title="reddit profile" rel="me">Reddit</a>, <a href="http://chuckreynolds.stumbleupon.com/" title="StumbleUpon" rel="me nofollow">StumbleUpon</a></li>
-	            <li><a href="http://www.everytrail.com/profile.php?user_id=95654" title="EveryTrail Profile" rel="me nofollow">EveryTrail</a></li>
 			</ul>
 
 			<hr class="hide_mobile">
