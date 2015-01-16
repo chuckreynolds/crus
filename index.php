@@ -149,28 +149,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<h2 class="hide_mobile">Projects</h2>
 	        <ul class="hide_mobile">
 	        	<li><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
-	        	<li><a href="http://whereirank.com/?utm_source=chuckreynolds.us" title="Where I Rank" itemprop="affiliation">Where I Rank</a></li>
-	        	<li>Betwext <a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation">SMS Marketing</a></li>
-	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">WordPress Open Graph Plugin for Facebook, Google+ and Twitter</a></li>
+	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">Open Graph WordPress Plugin for Facebook, Google+ and Twitter</a></li>
 	        	<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="rYnoweb WordPress plugin" itemprop="affiliation">rYnoweb WordPress Plugins</a></li>
+	        	<li><i><a href="http://whereirank.com/?utm_source=chuckreynolds.us" title="Where I Rank" itemprop="affiliation">Where I Rank</a> (retired)</i></li>
+	        	<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation">Betwext SMS</a> (retired)</i></li>
 	        </ul>
 		</div>
 		<div class="span3 hide_mobile">
 			<h2 class="hide_mobile">In the Social</h2>
 			<ul class="hide_mobile">
-				<li><a href="http://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="contactType">Twitter</a></li>
-				<li><a href="https://alpha.app.net/chuckreynolds" title="App .net" rel="me" itemprop="contactType">App.net</a></li>
-				<li><a href="http://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactType">LinkedIn</a></li>
-				<li><a href="http://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactType">Facebook</a></li>
-				<li><a href="http://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
+				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="contactType">Twitter</a></li>
+				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactType">LinkedIn</a></li>
+				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactType">Facebook</a></li>
+				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
 			</ul>
 
 			<ul class="hide_mobile">
 				<li><a href="https://plus.google.com/+ChuckReynolds/plusones" title="Google +1" rel="me" itemprop="contactType">Google +1 Resources</a></li>
 				<li><a href="http://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
-						<li><a href="http://delicious.com/chuckreynolds/wordpress/">WordPress Resources</a></li>
-						<li><a href="http://delicious.com/chuckreynolds/seo/">SEO Resources</a></li>
+						<li><a href="https://delicious.com/chuckreynolds/wordpress">WordPress Resources</a></li>
+						<li><a href="https://delicious.com/chuckreynolds/seotools">SEO Tools Links</a></li>
 					</ul>
 				</li>
 			</ul>
