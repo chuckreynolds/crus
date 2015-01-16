@@ -202,7 +202,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <footer class="footer hide_mobile">
 	<div class="arrow_down_low"></div>
 	<div class="container">
-		<? /*
+		<?php /*
 		<h3 id="twitter_status">Latest Tweets from <a href="http://twitter.com/chuckreynolds" rel="me">@chuckreynolds</a>:</h3>
 		<div id="twitter_div">
 			<ul id="twitter_update_list"></ul>
@@ -213,9 +213,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 </footer>
 </div>
-<? /*
+<?php /*
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 */ ?>
 </body>
 </html>
-<? /* list exists here now: https://gist.github.com/chuckreynolds/4227ee3ad9536bc1a02e */ ?>
+<?php /* list exists here now: https://gist.github.com/chuckreynolds/4227ee3ad9536bc1a02e */ ?>
