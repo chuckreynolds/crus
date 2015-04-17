@@ -37,7 +37,7 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 	<!-- facebook open graph protocol -->
 	<meta property="fb:app_id" content="137499412985957">
 	<meta property="fb:admins" content="507282144">
-	<meta property="og:url" content="http://chuckreynolds.us">
+	<meta property="og:url" content="https://chuckreynolds.us">
 	<meta property="og:title" content="About Chuck Reynolds">
 	<meta property="og:site_name" content="About Chuck Reynolds">
 	<meta property="og:description" content="<?php echo($cr_desc); ?>">
@@ -84,7 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K5LWNG');</script>
 <!-- End Google Tag Manager -->
-<div class="container" itemscope itemtype="http://schema.org/Person">
+<div class="container" itemscope itemtype="http://schema.org/Person http://schema.org/WebSite">
 	<div class="arrow_down_high"></div>
 	<div class="row">
 		<div class="span12">
@@ -151,8 +151,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	        	<li><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
 	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">Open Graph WordPress Plugin for Facebook, Google+ and Twitter</a></li>
 	        	<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="rYnoweb WordPress plugin" itemprop="affiliation">rYnoweb WordPress Plugins</a></li>
-	        	<li><i><a href="http://whereirank.com/?utm_source=chuckreynolds.us" title="Where I Rank" itemprop="affiliation">Where I Rank</a> (retired)</i></li>
-	        	<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation">Betwext SMS</a> (retired)</i></li>
+	        	<li><i><a href="http://whereirank.com/?utm_source=chuckreynolds.us" title="Where I Rank" itemprop="affiliation" rel="nofollow">Where I Rank</a> (retired)</i></li>
+	        	<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation" rel="nofollow">Betwext SMS</a> (retired)</i></li>
 	        </ul>
 		</div>
 		<div class="span3 hide_mobile">
@@ -185,9 +185,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Gamer Too?</h2>
 			<ul class="hide_mobile">
-				<li>PSN: <a href="http://profiles.us.playstation.com/playstation/psn/visit/profiles/rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a> (Destiny)</li>
-				<?php /* <li>Xbox: <a href="http://live.xbox.com/en-US/Profile?pp=0&GamerTag=rYnoRanger" rel="nofollow" target="_blank">rYnoRanger</a></li>
-				<li>LoL: <a href="http://signup.leagueoflegends.com/?ref=5222629ec0703471180907" rel="nofollow" target="_blank">rYnoRanger</a></li> */ ?>
+				<li><a href="http://rynoranger.com" title="rynoranger games" rel="me">rYnoRanger</a></li>
 			</ul>
 		</div>
 	</div>
