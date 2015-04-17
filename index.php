@@ -64,7 +64,6 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 	<script type="application/ld+json">
 	{ "@context" : "http://schema.org",
 	  "@type" : "Person",
-	  "name" : "Chuck Reynolds",
 	  "url" : "https://chuckreynolds.us",
 	  "sameAs" : [ "https://twitter.com/chuckreynolds",
 	      "https://www.linkedin.com/in/chuckreynolds",
@@ -84,7 +83,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K5LWNG');</script>
 <!-- End Google Tag Manager -->
-<div class="container" itemscope itemtype="http://schema.org/Person http://schema.org/WebSite">
+<div class="container" itemscope itemtype="http://schema.org/Person">
 	<div class="arrow_down_high"></div>
 	<div class="row">
 		<div class="span12">
