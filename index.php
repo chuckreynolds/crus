@@ -63,6 +63,7 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 	<script type="application/ld+json">
 	{ "@context" : "http://schema.org",
 	  "@type" : "Person",
+	  "name" : "Chuck Reynolds",
 	  "url" : "https://chuckreynolds.us",
 	  "sameAs" : [ "https://twitter.com/chuckreynolds",
 	      "https://www.linkedin.com/in/chuckreynolds",
