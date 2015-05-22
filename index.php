@@ -5,7 +5,6 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
-	<!-- test new server -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php echo($cr_title); ?></title>
 	<meta name="description" content="<?php echo($cr_desc); ?>">
@@ -42,7 +41,7 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 	<meta property="og:site_name" content="About Chuck Reynolds">
 	<meta property="og:description" content="<?php echo($cr_desc); ?>">
 	<meta property="og:type" content="public_figure">
-	<meta property="og:image" content="https://chuckreynolds.us/chuck_reynolds.jpg">
+	<meta property="og:image" content="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:email" content="talkto@chuckreynolds.us">
 	<meta property="og:latitude" content="37.771559">
@@ -57,7 +56,7 @@ $cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optim
 	<meta name="twitter:title" content="Web Strategy. Technical SEO. WordPress.">
 	<meta name="twitter:description" content="An internet engineer of things; a technical search engine optimizer and overall digital architect and strategist for internet focused businesses.">
 	<meta name="twitter:creator" content="chuckreynolds">
-	<meta name="twitter:image:src" content="https://chuckreynolds.us/chuck_reynolds.jpg">
+	<meta name="twitter:image:src" content="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg">
 	<meta name="twitter:domain" content="ChuckReynolds.us">
 	<!-- google social profiles markup
 		 https://developers.google.com/webmasters/structured-data/customize/social-profiles -->
@@ -95,16 +94,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="row" id="main">
 		<div class="span6">
 			<h2>Who is Chuck Reynolds?</h2>
-			<p>Hi, my name is Chuck. I'm here to provide professional <span itemprop="jobTitle">web strategy, technical on-site SEO, and conversion optimization</span> services for individuals and businesses alike. I'm the WordPress Engineer in Arizona and available for hire doing WordPress development and customization. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects-so get in touch if you'd like a proper implementation.</p>
+			<p>Hi, my name is Chuck. I'm here to provide <span itemprop="jobTitle">web strategy &amp; project management, technical on-site SEO, and WordPress</span> services. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects; so get in touch if you'd like a proper implementation.</p>
 			<br>
-			<img src="//chuckreynolds.us/chuck_reynolds.jpg" height="95" width="95" alt="Chuck" class="pull-left" itemprop="image"><h2>Providing professional web strategy, digital asset optimization, and local SEO services for individuals and businesses alike.</h2>
+			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left" itemprop="image"><h2>Providing professional web strategy, digital asset optimization, and technical SEO services for individuals and businesses alike.</h2>
 			<br>
-			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking the AZ backcountry, riding the trails on my mountain bike, reading and linking to a lot of useful info. Occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamp Phoenix events <em>(2009 &amp; 2011)</em> and remain involved with the <a href="http://www.meetup.com/Arizona-WordPress-Group/" target="_blank" rel="nofollow">Arizona WordPress Group</a>. In the past, I helped in the growth of PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. I can regularly be found at Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace">collaborative workspace</a> in Downtown <span itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Chandler</span> <span itemprop="addressRegion">AZ</span></span> and donate my time as a <a href="http://chandler.gangplankhq.com/mentoring/technology/" title="Technical Mentoring at Gangplank" target="_blank">technical mentor</a> there as well.</p>
+			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking the AZ backcountry, riding the trails on my mountain bike, reading and linking to a lot of useful info. Occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamp Phoenix events <em>(2009 &amp; 2011)</em> and remain involved with the <a href="http://www.meetup.com/Arizona-WordPress-Group/" target="_blank" rel="nofollow">Arizona WordPress Group</a>. In the past, I helped in the growth of PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. I can regularly be found at Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Downtown <span itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Chandler</span> <span itemprop="addressRegion">AZ</span></span> and donate my time as a <a href="http://chandler.gangplankhq.com/mentoring/technology/" title="Technical Mentoring at Gangplank" target="_blank">technical mentor</a> there as well.</p>
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is NOT:</b></p>
 			<ul class="hide_mobile">
 				<li id="indent_list">Associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
 				<li id="indent_list">Receiving any royalties from the Alcoa corporation for the usage of "Reynolds Wrap," and all the grief I got about that name during grade-school (true story).</li>
-				<li id="indent_list">Part of the <a href="http://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
+				<li id="indent_list">Part of the <a href="https://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
 				<li id="indent_list">The inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
 			</ul>
 			<p>Feel free to add and follow me, and be sure to socialize and say "Hi" -lurking doesn't get you anywhere. The best way to get my attention is email, not the phone. I will reply, not always quickly, but I will get to it. I don't answer the phone or check voicemails, and I stay off chat services. Now you know how to get in touch, and knowing is half the battle... G.I Joe</p>
@@ -157,15 +156,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="span3 hide_mobile">
 			<h2 class="hide_mobile">In the Social</h2>
 			<ul class="hide_mobile">
-				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="contactType">Twitter</a></li>
-				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactType">LinkedIn</a></li>
-				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactType">Facebook</a></li>
-				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactType">Google+</a></li>
+				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="contactPoint">Twitter</a></li>
+				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactPoint">LinkedIn</a></li>
+				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactPoint">Facebook</a></li>
+				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactPoint">Google+</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 			</ul>
 
 			<ul class="hide_mobile">
-				<li><a href="https://plus.google.com/+ChuckReynolds/plusones" title="Google +1" rel="me" itemprop="contactType">Google +1 Resources</a></li>
+				<li><a href="https://plus.google.com/+ChuckReynolds/plusones" title="Google +1" rel="me">Google +1 Resources</a></li>
 				<li><a href="https://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
 						<li><a href="https://delicious.com/chuckreynolds/wordpress">WordPress Resources</a></li>
@@ -209,4 +208,3 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 */ ?>
 </body>
 </html>
-<?php /* list exists here now: https://gist.github.com/chuckreynolds/4227ee3ad9536bc1a02e */ ?>

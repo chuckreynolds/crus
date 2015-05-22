@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /html
 
-Sitemap: http://chuckreynolds.us/sitemap.xml
+Sitemap: https://chuckreynolds.us/sitemap.xml
