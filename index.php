@@ -98,7 +98,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<br>
 			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left" itemprop="image"><h2>Providing professional web strategy, digital asset optimization, and technical SEO services for individuals and businesses alike.</h2>
 			<br>
-			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking the AZ backcountry, riding the trails on my mountain bike, reading and linking to a lot of useful info. Occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamp Phoenix events <em>(2009 &amp; 2011)</em> and remain involved with the <a href="http://www.meetup.com/Arizona-WordPress-Group/" target="_blank" rel="nofollow">Arizona WordPress Group</a>. In the past, I helped in the growth of PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. I can regularly be found at Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Downtown <span itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Chandler</span> <span itemprop="addressRegion">AZ</span></span> and donate my time as a <a href="http://chandler.gangplankhq.com/mentoring/technology/" title="Technical Mentoring at Gangplank" target="_blank">technical mentor</a> there as well.</p>
+			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For a while I donated my time as a <a href="http://chandler.gangplankhq.com/mentoring/technology/" title="Technical Mentor at Gangplank" target="_blank" rel="nofollow">technical mentor</a> as well.</p>
+
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is NOT:</b></p>
 			<ul class="hide_mobile">
 				<li id="indent_list">Associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
@@ -106,6 +107,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li id="indent_list">Part of the <a href="https://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
 				<li id="indent_list">The inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
 			</ul>
+
 			<p>Feel free to add and follow me, and be sure to socialize and say "Hi" -lurking doesn't get you anywhere. The best way to get my attention is email, not the phone. I will reply, not always quickly, but I will get to it. I don't answer the phone or check voicemails, and I stay off chat services. Now you know how to get in touch, and knowing is half the battle... G.I Joe</p>
 		</div>
 		<hr class="only_mobile">
@@ -137,12 +139,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 			<h3>Levers</h3>
 			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
+
 			<h3>Vuurr Digital</h3>
 			<p><a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr" itemprop="affiliation">Vuurr</a> is a Digital Marketing Intelligence firm providing premium web application development, analytics &amp; ppc auditing and conversion optimization services.</p>
+
 			<h3>rYnoweb</h3>
 			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="rYnoweb" itemprop="affiliation">rYnoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
+
 			<h3>UpChuck</h3>
 			<p><a href="http://upchuck.us/?utm_source=chuckreynolds.us" title="Upchuck blog" itemprop="affiliation">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
+
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Projects</h2>
 	        <ul class="hide_mobile">
@@ -153,6 +159,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	        	<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation" rel="nofollow">Betwext SMS</a> (retired)</i></li>
 	        </ul>
 		</div>
+
 		<div class="span3 hide_mobile">
 			<h2 class="hide_mobile">In the Social</h2>
 			<ul class="hide_mobile">
