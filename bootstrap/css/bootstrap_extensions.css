@@ -36,7 +36,7 @@ hr{
 }
 .footer {
 	border-top:5px solid #09c;
-	padding:35px 35px 35px 35px;
+	padding:100px;
 	margin-top:45px;
 	background-color:#333;
 	color:#f2f2f2;
@@ -299,5 +299,3 @@ canvas {
     display:block;
   }
 }
-
-
