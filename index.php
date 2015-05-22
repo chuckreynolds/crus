@@ -163,10 +163,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="span3 hide_mobile">
 			<h2 class="hide_mobile">In the Social</h2>
 			<ul class="hide_mobile">
-				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="contactPoint">Twitter</a></li>
-				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="contactPoint">LinkedIn</a></li>
-				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="contactPoint">Facebook</a></li>
-				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="contactPoint">Google+</a></li>
+				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="url">Twitter</a></li>
+				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="url">LinkedIn</a></li>
+				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="url">Facebook</a></li>
+				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="url">Google+</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 			</ul>
 
