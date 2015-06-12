@@ -1,6 +1,6 @@
 <?php
 $cr_title = 'Chuck Reynolds - Web Strategy. Technical SEO. WordPress.';
-$cr_desc = 'Chuck is a consultant for technical on-site SEO and conversion optimization solutions based in San Francisco';
+$cr_desc  = 'Chuck is a consultant for technical on-site SEO and conversion optimization solutions based in San Francisco';
 ?>
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
@@ -214,5 +214,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php /*
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 */ ?>
+<script src="secretsquirrel.js" async></script>
+<script>var secretsquirrel = new Konami('secretsquirrel.htm');</script>
 </body>
 </html>
