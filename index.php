@@ -5,6 +5,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and conversion opti
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 <head>
+	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php echo($cr_title); ?></title>
 	<meta name="description" content="<?php echo($cr_desc); ?>">
