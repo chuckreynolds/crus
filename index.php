@@ -103,10 +103,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is NOT:</b></p>
 			<ul class="hide_mobile">
-				<li id="indent_list">Associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
-				<li id="indent_list">Receiving any royalties from the Alcoa corporation for the usage of "Reynolds Wrap," and all the grief I got about that name during grade-school (true story).</li>
-				<li id="indent_list">Part of the <a href="https://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
-				<li id="indent_list">The inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
+				<li class="indent_list">Associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
+				<li class="indent_list">Receiving any royalties from the Alcoa corporation for the usage of "Reynolds Wrap," and all the grief I got about that name during grade-school (true story).</li>
+				<li class="indent_list">Part of the <a href="https://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
+				<li class="indent_list">The inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
 			</ul>
 
 			<p>Feel free to add and follow me, and be sure to socialize and say "Hi" -lurking doesn't get you anywhere. The best way to get my attention is email, not the phone. I will reply, not always quickly, but I will get to it. I don't answer the phone or check voicemails, and I stay off chat services. Now you know how to get in touch, and knowing is half the battle... G.I Joe</p>
@@ -210,7 +210,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		*/ ?>
 	</div>
 </footer>
-</div>
 <?php /*
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 */ ?>
