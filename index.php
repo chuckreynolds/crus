@@ -10,6 +10,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and conversion opti
 	<title><?php echo($cr_title); ?></title>
 	<meta name="description" content="<?php echo($cr_desc); ?>">
 	<meta name="robots" content="noodp,noydir">
+	<meta name="referrer" content="origin-when-crossorigin">
 	<!-- global positioning GeoTag metadata -->
 	<meta name="geo.country" content="US">
 	<meta name="geo.region" content="US-CA">
