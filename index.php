@@ -25,9 +25,8 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and conversion opti
 	<meta name="tgn.nation" content="United States">
 	<!-- // end global positioning -->
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
-	<link rel="canonical" href="https://chuckreynolds.us/">
-	<link rel="alternate" type="application/rss+xml" title="Levers - Predictive Analytics" href="http://leve.rs/feed">
-	<link rel="alternate" type="application/rss+xml" title="rYnoweb.com Company blog" href="http://rynoweb.com/feed">
+	<link rel="canonical" href="https://chuckreynolds.us">
+	<link rel="alternate" type="application/rss+xml" title="Rynoweb.com Company blog" href="http://rynoweb.com/feed">
 	<link rel="alternate" type="application/rss+xml" title="UpChuck - Atypical posts from an Average Chuck" href="http://upchuck.us/feed">
 	<link rel="alternate" type="application/rss+xml" title="Vuurr - Digital Consulting Services" href="http://vuurr.com/feed">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
@@ -71,7 +70,8 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and conversion opti
 	      "https://www.linkedin.com/in/chuckreynolds",
 	      "https://www.facebook.com/chuckreynolds",
 	      "https://plus.google.com/+chuckreynolds",
-	      "http://instagram.com/chuckreynolds"]
+	      "http://instagram.com/chuckreynolds",
+	      "https://www.youtube.com/user/rynoweb"]
 	}
 	</script>
 </head>
@@ -140,14 +140,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			//]]>
 			</script></p>
 
-			<h3>Levers</h3>
-			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
-
 			<h3>Vuurr Digital</h3>
 			<p><a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr" itemprop="affiliation">Vuurr</a> is a Digital Marketing Intelligence firm providing premium web application development, analytics &amp; ppc auditing and conversion optimization services.</p>
 
-			<h3>rYnoweb</h3>
-			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="rYnoweb" itemprop="affiliation">rYnoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
+			<h3><i>Levers (retired)</i></h3>
+			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
+
+			<h3>Rynoweb</h3>
+			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="Rynoweb" itemprop="affiliation">Rynoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
 
 			<h3>UpChuck</h3>
 			<p><a href="http://upchuck.us/?utm_source=chuckreynolds.us" title="Upchuck blog" itemprop="affiliation">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
@@ -157,7 +157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	        <ul class="hide_mobile">
 	        	<li><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
 	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">Open Graph WordPress Plugin for Facebook, Google+ and Twitter</a></li>
-	        	<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="rYnoweb WordPress plugin" itemprop="affiliation">rYnoweb WordPress Plugins</a></li>
+	        	<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="Rynoweb WordPress plugin" itemprop="affiliation">Rynoweb WordPress Plugins</a></li>
 	        	<li><i><a href="http://whereirank.com/?utm_source=chuckreynolds.us" title="Where I Rank" itemprop="affiliation" rel="nofollow">Where I Rank</a> (retired)</i></li>
 	        	<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation" rel="nofollow">Betwext SMS</a> (retired)</i></li>
 	        </ul>
@@ -193,7 +193,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Gamer Too?</h2>
 			<ul class="hide_mobile">
-				<li><a href="http://rynoranger.com" title="rynoranger games" rel="me">rYnoRanger</a></li>
+				<li><a href="http://rynoranger.com" title="rynoranger games" rel="me">RynoRanger</a></li>
 			</ul>
 		</div>
 	</div>
