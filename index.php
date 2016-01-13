@@ -3,8 +3,8 @@ $cr_title = 'Chuck Reynolds - Web Strategy. Technical SEO. WordPress.';
 $cr_desc  = 'Chuck is a consultant for technical on-site SEO and conversion optimization solutions based in San Francisco';
 ?>
 <!DOCTYPE html>
-<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-<head>
+<html lang="en-US">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php echo($cr_title); ?></title>
