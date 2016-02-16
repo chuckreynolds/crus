@@ -1,6 +1,6 @@
 <?php
 $cr_title = 'Chuck Reynolds - Web Strategy. Technical SEO. WordPress.';
-$cr_desc  = 'Chuck is a consultant for technical on-site SEO and conversion optimization solutions based in San Francisco';
+$cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and wordpress development in San Francisco';
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -67,11 +67,11 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and conversion opti
 	  "name" : "Chuck Reynolds",
 	  "url" : "https://chuckreynolds.us",
 	  "sameAs" : [ "https://twitter.com/chuckreynolds",
-	      "https://www.linkedin.com/in/chuckreynolds",
-	      "https://www.facebook.com/chuckreynolds",
-	      "https://plus.google.com/+chuckreynolds",
-	      "http://instagram.com/chuckreynolds",
-	      "https://www.youtube.com/user/rynoweb"]
+		  "https://www.linkedin.com/in/chuckreynolds",
+		  "https://www.facebook.com/chuckreynolds",
+		  "https://plus.google.com/+chuckreynolds",
+		  "http://instagram.com/chuckreynolds",
+		  "https://www.youtube.com/user/rynoweb"]
 	}
 	</script>
 </head>
@@ -103,12 +103,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<br>
 			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For a while I donated my time as a <a href="http://chandler.gangplankhq.com/mentoring/technology/" title="Technical Mentor at Gangplank" target="_blank" rel="nofollow">technical mentor</a> as well.</p>
 
-			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is NOT:</b></p>
+			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is:</b></p>
 			<ul class="hide_mobile">
-				<li class="indent_list">Associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
-				<li class="indent_list">Receiving any royalties from the Alcoa corporation for the usage of "Reynolds Wrap," and all the grief I got about that name during grade-school (true story).</li>
-				<li class="indent_list">Part of the <a href="https://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
-				<li class="indent_list">The inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
+				<li class="indent_list">NOT associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
+				<li class="indent_list">NOT receiving any royalties from the Alcoa corporation for the usage of "Reynolds Wrap," and all the grief I got about that name during grade-school (true story).</li>
+				<li class="indent_list">NOT part of the <a href="https://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
+				<li class="indent_list">NOT the inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
 			</ul>
 
 			<p>Feel free to add and follow me, and be sure to socialize and say "Hi" -lurking doesn't get you anywhere. The best way to get my attention is email, not the phone. I will reply, not always quickly, but I will get to it. I don't answer the phone or check voicemails, and I stay off chat services. Now you know how to get in touch, and knowing is half the battle... G.I Joe</p>
@@ -119,48 +119,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<p><a href="https://twitter.com/chuckreynolds" rel="me" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @ChuckReynolds</a>
 			<br>
 			email: <script type="text/javascript">
-			//<![CDATA[
-			function hiveware_enkoder(){var i,j,x,y,x=
-			"x=\"5623466393735373566353632363435306635323237336633363636356634373836323" +
-			"6332d3834307\\\"\\\\=x0\\\"=x732363066333231663136333634633237353238633232" +
-			"35323336346533373937343632363337376636373566343732373366336639363536313738" +
-			"36343633663236303233323565346334633662303635323636326634373837386333363337" +
-			"35363037353436623366343734373236336633663666316635363466393731373563363632" +
-			"66376233272d3734397b363332226636633066353332663963393735323236323235373263" +
-			"3166333636363562333d3b6334296b373338643635776e3631656c66326e2836357c393733" +
-			"6b3037363d396333682237357f6637356b30737e3332287b33352725323527283634256037" +
-			"3971633633637535306e6533327d3b3335297b323179226234339<i;03634=i(r3732of;'3" +
-			"233'=y;6534\\\"\\\\97d37337b393631292236343c293735682266367473663372653433" +
-			"233)2,i6639(rts3631bus.3634x+'%6635'(ep3432acse3233nu=+6534y{)26335=+i;363" +
-			"3htgn6634el.x37of};)4,i(rtsbus.x=+y{)8=+i;htgnel.x<i;0=i(rof;''=y;)1(rtsbu" +
-			"s.x=x;))0(tArahc.x(lave=j;\\\"y};);)j(rtsbus.y=y};)4,i(rtsbus.x=+y{)8=+i;h" +
-			"tgnel.x<i;4=i(r\";y='';for(i=0;i<x.length;i+=90){for(j=Math.min(x.length,i" +
-			"+90);--j>=i;){y+=x.charAt(j);}}y;";
-			while(x=eval(x));}hiveware_enkoder();
-			//]]>
+			//<![CDATA[<!--
+			var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
+			"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
+			" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!29{)rt{y+xx=l;=+;" +
+			"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
+			"\"(6),9\\\"\\\\_KDUUN13\\\\0F\\\\nT\\\\\\\\\\\\t6\\\\00\\\\\\\\1J00\\\\\\\\" +
+			"07\\\\06\\\\02\\\\\\\\17\\\\01\\\\/'t|8.ww9968o:3r02\\\\\\\\\\\\#\\\\\\\"/\\"+
+			"\\(e?,((6<2c00\\\\\\\\/aRSTX31\\\\0f\\\\04\\\\0]\\\\B[\\\\\\\\\\\\\\\\3@02\\"+
+			"\\\\\\20\\\\0m\\\\LDYODBti\\\\\\\\SMvO04\\\\01\\\\03\\\\\\\\MMzL Vxh77\\\\1" +
+			"s\\\\bz*e|y?qjrbyrbIxkg`j9lum7l02\\\\\\\\34\\\\01\\\\02\\\\\\\\&Y6D03\\\\\\" +
+			"\\22\\\\04\\\\00\\\\\\\\35\\\\0T\\\\22\\\\0N\\\\XS01\\\\02\\\\00\\\\\\\\10\\"+
+			"\\00\\\\03\\\\\\\\02\\\\00\\\\03\\\\\\\\36\\\\0F\\\\23\\\\00\\\\01\\\\\\\\0" +
+			"0\\\\0t\\\\\\\\\\\\26\\\\01\\\\00\\\\\\\\16\\\\04\\\\00\\\\\\\\\\\"\\\\f(;}" +
+			" ornture;}))++(y)^(iAtdeCoarchx.e(odrChamCro.fngriSt+=;o27=1y%){++;i<l;i=0(" +
+			"ior;fthnglex.l=\\\\,\\\\\\\"=\\\",o iar{vy)x,f(n ioctun\\\"f)\")";
+			while(x=eval(x));//-->//]]>
 			</script></p>
 
 			<h3>Vuurr Digital</h3>
-			<p><a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr" itemprop="affiliation">Vuurr</a> is a Digital Marketing Intelligence firm providing premium web application development, analytics &amp; ppc auditing and conversion optimization services.</p>
+			<p><a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr" itemprop="affiliation">Vuurr</a> is a Digital Marketing Intelligence firm providing premium web application development, and technical consulting on analytics/seo auditing, and conversion optimization services.</p>
 
 			<h3><i>Levers (retired)</i></h3>
-			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> is a new product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
+			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> was our product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
 
 			<h3>Rynoweb</h3>
-			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="Rynoweb" itemprop="affiliation">Rynoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO consulting, and local search marketing.</p>
+			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="Rynoweb" itemprop="affiliation">Rynoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO auditing and consulting.</p>
 
 			<h3>UpChuck</h3>
 			<p><a href="http://upchuck.us/?utm_source=chuckreynolds.us" title="Upchuck blog" itemprop="affiliation">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
 
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Projects</h2>
-	        <ul class="hide_mobile">
-	        	<li><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
-	        	<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">Open Graph WordPress Plugin for Facebook, Google+ and Twitter</a></li>
-	        	<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="Rynoweb WordPress plugin" itemprop="affiliation">Rynoweb WordPress Plugins</a></li>
-	        	<li><i><a href="http://whereirank.com/?utm_source=chuckreynolds.us" title="Where I Rank" itemprop="affiliation" rel="nofollow">Where I Rank</a> (retired)</i></li>
-	        	<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation" rel="nofollow">Betwext SMS</a> (retired)</i></li>
-	        </ul>
+			<ul class="hide_mobile">
+				<li><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
+				<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">Open Graph WordPress Plugin for Facebook, Google+ and Twitter</a></li>
+				<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="Rynoweb WordPress plugin" itemprop="affiliation">Rynoweb WordPress Plugins</a></li>
+				<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation" rel="nofollow">Betwext SMS</a> (former)</i></li>
+			</ul>
 		</div>
 
 		<div class="span3 hide_mobile">
@@ -168,28 +164,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<ul class="hide_mobile">
 				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="url">Twitter</a></li>
 				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="url">LinkedIn</a></li>
+				<li><a href="https://www.youtube.com/chuckreynolds?sub_confirmation=1" title="YouTube" rel="me">YouTube VLOGS</a></li>
 				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="url">Facebook</a></li>
+				<li><a href="http://i.imgur.com/b188zSt.png" title="Snapchat Image Code" itemprop="url">SnapChat</a></li>
+				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
 				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="url">Google+</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
-			</ul>
-
-			<ul class="hide_mobile">
-				<li><a href="https://plus.google.com/+ChuckReynolds/plusones" title="Google +1" rel="me">Google +1 Resources</a></li>
 				<li><a href="https://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
 						<li><a href="https://delicious.com/chuckreynolds/wordpress">WordPress Resources</a></li>
 						<li><a href="https://delicious.com/chuckreynolds/seotools">SEO Tools Links</a></li>
 					</ul>
 				</li>
-			</ul>
-
-			<ul class="hide_mobile">
-				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
 				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer</a></li>
 				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a></li>
-				<li><a href="https://www.youtube.com/user/rynoweb" title="YouTube" rel="me">YouTube</a></li>
 			</ul>
-
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Gamer Too?</h2>
 			<ul class="hide_mobile">
