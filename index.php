@@ -80,10 +80,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 			"https://plus.google.com/+chuckreynolds",
 			"https://www.instagram.com/chuckreynolds/",
 			"https://www.youtube.com/user/rynoweb"],
-		"affiliation": "http://rynoweb.com",
-		"affiliation": "http://vuurr.com",
-		"affiliation": "http://builditrightthefirsttime.com",
-		"affiliation": "http://twimlbin.com"
+		"affiliation": "http://vuurr.com"
 	}
 	</script>
 </head>
