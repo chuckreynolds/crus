@@ -59,19 +59,31 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 	<meta name="twitter:creator" content="chuckreynolds">
 	<meta name="twitter:image:src" content="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg">
 	<meta name="twitter:domain" content="ChuckReynolds.us">
-	<!-- google social profiles markup
-		 https://developers.google.com/webmasters/structured-data/customize/social-profiles -->
+	<!-- JSON-LD Person Schema -->
 	<script type="application/ld+json">
-	{ "@context" : "http://schema.org",
-	  "@type" : "Person",
-	  "name" : "Chuck Reynolds",
-	  "url" : "https://chuckreynolds.us",
-	  "sameAs" : [ "https://twitter.com/chuckreynolds",
-		  "https://www.linkedin.com/in/chuckreynolds",
-		  "https://www.facebook.com/chuckreynolds",
-		  "https://plus.google.com/+chuckreynolds",
-		  "http://instagram.com/chuckreynolds",
-		  "https://www.youtube.com/user/rynoweb"]
+	{
+		"@context"   : "http://schema.org",
+		"@type"      : "Person",
+		"name"       : "Chuck Reynolds",
+		"gender"     : "male",
+		"height"     : "73 inches",
+		"birthPlace" : "Chicago, IL",
+		"birthDate"  : "1978.05.11",
+		"email"      : "talkto@chuckreynolds.us",
+		"image"      : "https://chuckreynolds.us/chuck-reynolds-BW-square.jpg",
+		"jobTitle"   : "web strategy &amp; project management, technical on-site SEO, and WordPress",
+		"alumniOf"   : "Arizona State University",
+		"url"        : "https://chuckreynolds.us",
+		"sameAs"     : [ "https://twitter.com/chuckreynolds",
+			"https://www.linkedin.com/in/chuckreynolds",
+			"https://www.facebook.com/chuckreynolds",
+			"https://plus.google.com/+chuckreynolds",
+			"https://www.instagram.com/chuckreynolds/",
+			"https://www.youtube.com/user/rynoweb"],
+		"affiliation": "http://rynoweb.com",
+		"affiliation": "http://vuurr.com",
+		"affiliation": "http://builditrightthefirsttime.com",
+		"affiliation": "http://twimlbin.com",
 	}
 	</script>
 </head>
@@ -85,23 +97,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K5LWNG');</script>
 <!-- End Google Tag Manager -->
-<div class="container" itemscope itemtype="http://schema.org/Person">
+<div class="container">
 	<div class="arrow_down_high"></div>
 	<div class="row">
 		<div class="span12">
 			<div class="page-header">
-				<h1 itemprop="name" content="Chuck Reynolds">Chuck Reynolds</h1>
+				<h1>Chuck Reynolds</h1>
 			</div>
 		</div>
 	</div>
 	<div class="row" id="main">
 		<div class="span6">
 			<h2>Who is Chuck Reynolds?</h2>
-			<p>Hi, my name is Chuck. I'm here to provide <span itemprop="jobTitle">web strategy &amp; project management, technical on-site SEO, and WordPress</span> services. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects; so get in touch if you'd like a proper implementation.</p>
+			<p>Hi, my name is Chuck. I'm here to provide web strategy &amp; project management, technical on-site SEO, and WordPress services. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects; so get in touch if you'd like a proper implementation.</p>
 			<br>
-			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left" itemprop="image"><h2>Providing professional web strategy, digital asset optimization, and technical SEO services for individuals and businesses alike.</h2>
+			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left"><h2>Providing professional web strategy, digital asset optimization, and technical SEO services for individuals and businesses alike.</h2>
 			<br>
-			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For a while I donated my time as a <a href="http://chandler.gangplankhq.com/mentoring/technology/" title="Technical Mentor at Gangplank" target="_blank" rel="nofollow">technical mentor</a> as well.</p>
+			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For a while I donated my time as a technical mentor as well.</p>
 
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is:</b></p>
 			<ul class="hide_mobile">
@@ -138,37 +150,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</script></p>
 
 			<h3>Vuurr Digital</h3>
-			<p><a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr" itemprop="affiliation">Vuurr</a> is a Digital Marketing Intelligence firm providing premium web application development, and technical consulting on analytics/seo auditing, and conversion optimization services.</p>
+			<p><a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr">Vuurr</a> is a Digital Marketing Intelligence firm providing premium web application development, and technical consulting on analytics/seo auditing, and conversion optimization services.</p>
 
 			<h3><i>Levers (retired)</i></h3>
-			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers" itemprop="affiliation">Levers</a> was our product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
+			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers">Levers</a> was our product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
 
 			<h3>Rynoweb</h3>
-			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="Rynoweb" itemprop="affiliation">Rynoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO auditing and consulting.</p>
+			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="Rynoweb">Rynoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO auditing and consulting.</p>
 
 			<h3>UpChuck</h3>
-			<p><a href="http://upchuck.us/?utm_source=chuckreynolds.us" title="Upchuck blog" itemprop="affiliation">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
+			<p><a href="http://upchuck.us/?utm_source=chuckreynolds.us" title="Upchuck blog">UpChuck</a> is an atypical aggregation of personal thoughts, philosophy and short notes from an average Chuck.</p>
 
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Projects</h2>
 			<ul class="hide_mobile">
-				<li><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin" itemprop="affiliation">TWIMLbin</a></li>
-				<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin" itemprop="affiliation">Open Graph WordPress Plugin for Facebook, Google+ and Twitter</a></li>
-				<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="Rynoweb WordPress plugin" itemprop="affiliation">Rynoweb WordPress Plugins</a></li>
-				<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" itemprop="affiliation" rel="nofollow">Betwext SMS</a> (former)</i></li>
+				<li><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin">TWIMLbin</a></li>
+				<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin">Open Graph WordPress Plugin for Facebook, Google+ and Twitter</a></li>
+				<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="Rynoweb WordPress plugin">Rynoweb WordPress Plugins</a></li>
+				<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" rel="nofollow">Betwext SMS</a> (former)</i></li>
 			</ul>
 		</div>
 
 		<div class="span3 hide_mobile">
 			<h2 class="hide_mobile">In the Social</h2>
 			<ul class="hide_mobile">
-				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me" itemprop="url">Twitter</a></li>
-				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me" itemprop="url">LinkedIn</a></li>
+				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me">Twitter</a></li>
+				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me">LinkedIn</a></li>
 				<li><a href="https://www.youtube.com/chuckreynolds?sub_confirmation=1" title="YouTube" rel="me">YouTube VLOGS</a></li>
-				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me" itemprop="url">Facebook</a></li>
-				<li><a href="http://i.imgur.com/b188zSt.png" title="Snapchat Image Code" itemprop="url">SnapChat</a></li>
+				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me">Facebook</a></li>
+				<li><a href="https://www.snapchat.com/add/chuckreynolds" title="Snapchat Image Code">SnapChat</a></li>
 				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
-				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me" itemprop="url">Google+</a></li>
+				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me">Google+</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 				<li><a href="https://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
@@ -176,7 +188,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<li><a href="https://delicious.com/chuckreynolds/seotools">SEO Tools Links</a></li>
 					</ul>
 				</li>
-				<li><a href="http://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer</a></li>
+				<li><a href="https://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer</a></li>
 				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a></li>
 			</ul>
 			<hr class="hide_mobile">
