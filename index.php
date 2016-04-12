@@ -69,6 +69,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 		"height"     : "73 inches",
 		"birthPlace" : "Chicago, IL",
 		"birthDate"  : "1978-05-11",
+		"nationality": "United States",
 		"email"      : "talkto@chuckreynolds.us",
 		"image"      : "https://chuckreynolds.us/chuck-reynolds-BW-square.jpg",
 		"jobTitle"   : "web strategy &amp; project management, technical on-site SEO, and WordPress",
@@ -80,7 +81,13 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 			"https://plus.google.com/+chuckreynolds",
 			"https://www.instagram.com/chuckreynolds/",
 			"https://www.youtube.com/user/rynoweb"],
-		"affiliation": "http://vuurr.com"
+		"brand": {
+			"@type"  : "Brand",
+			"name"   : "Vuurr",
+			"description" : "A digital intelligence and engineering firm.",
+			"url"    : "http://vuurr.com",
+			"sameAs" : [ "https://twitter.com/vuurr"]
+		}
 	}
 	</script>
 </head>
