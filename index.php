@@ -68,7 +68,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 		"gender"     : "male",
 		"height"     : "73 inches",
 		"birthPlace" : "Chicago, IL",
-		"birthDate"  : "1978.05.11",
+		"birthDate"  : "1978-05-11",
 		"email"      : "talkto@chuckreynolds.us",
 		"image"      : "https://chuckreynolds.us/chuck-reynolds-BW-square.jpg",
 		"jobTitle"   : "web strategy &amp; project management, technical on-site SEO, and WordPress",
