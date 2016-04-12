@@ -83,7 +83,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 		"affiliation": "http://rynoweb.com",
 		"affiliation": "http://vuurr.com",
 		"affiliation": "http://builditrightthefirsttime.com",
-		"affiliation": "http://twimlbin.com",
+		"affiliation": "http://twimlbin.com"
 	}
 	</script>
 </head>
