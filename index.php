@@ -157,7 +157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<p><a href="http://vuurr.com/?utm_source=chuckreynolds.us" title="Vuurr">Vuurr</a> is a Digital Marketing Intelligence firm providing premium web application development, and technical consulting on analytics/seo auditing, and conversion optimization services.</p>
 
 			<h3><i>Levers (retired)</i></h3>
-			<p><a href="http://leve.rs/?utm_source=chuckreynolds.us" title="Levers">Levers</a> was our product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
+			<p><a href="#" title="Levers">Levers</a> was our product bringing accurate revenue forecasts and simulations to your digital marketing strategy.</p>
 
 			<h3>Rynoweb</h3>
 			<p><a href="http://rynoweb.com/?utm_source=chuckreynolds.us" title="Rynoweb">Rynoweb</a> specializes in WordPress theme and plugin development, on-site technical SEO auditing and consulting.</p>
@@ -184,16 +184,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me">Facebook</a></li>
 				<li><a href="https://www.snapchat.com/add/chuckreynolds" title="Snapchat Image Code">SnapChat</a></li>
 				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
-				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me">Google+</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
-				<li><a href="https://delicious.com/chuckreynolds/" title="Delicious Bookmarks" rel="me">Bookmarked Resources</a>
+				<li><a href="https://github.com/chuckreynolds/ama" title="Github AMA">AMA</a></li>
+				<li><a href="https://refind.com/ChuckReynolds" title="Chuck's Saved Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
-						<li><a href="https://delicious.com/chuckreynolds/wordpress">WordPress Resources</a></li>
-						<li><a href="https://delicious.com/chuckreynolds/seotools">SEO Tools Links</a></li>
+						<li><a href="https://refind.com/ChuckReynolds/topics/wordpress">WordPress Resources</a></li>
+						<li><a href="https://refind.com/ChuckReynolds/topics/tools">SEO &amp; Web Tools</a></li>
 					</ul>
 				</li>
 				<li><a href="https://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer</a></li>
-				<li><a href="http://chuckreynolds.yelp.com/" title="Yelp Reviews" rel="me">Yelp</a></li>
+				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me">Google+</a></li>
 			</ul>
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Gamer Too?</h2>
@@ -220,7 +220,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <?php /*
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 */ ?>
-<script src="secretsquirrel.js"></script>
+<script src="secretsquirrel.js" async></script>
 <script>var secretsquirrel = new Konami('secretsquirrel.htm');</script>
 </body>
 </html>
