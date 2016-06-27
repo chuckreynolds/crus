@@ -113,11 +113,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="row" id="main">
 		<div class="span6">
 			<h2>Who is Chuck Reynolds?</h2>
-			<p>Hi, my name is Chuck. I'm here to provide web strategy &amp; project management, technical on-site SEO, and WordPress services. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects; so get in touch if you'd like a proper implementation.</p>
+			<p>Hi, my name is Chuck. I'm here to provide web strategy &amp; project management, technical on-site SEO, and WordPress services. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I've been called in to fix far too many poorly-managed and poorly-built projects; so get in touch if you'd like a proper implementation. Currently reside in San Francisco, CA.</p>
 			<br>
-			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left"><h2>Providing professional web strategy, digital asset optimization, and technical SEO services for individuals and businesses alike.</h2>
+			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left"><h2>Providing professional web strategy consulting, WordPress custom theme and plugin development, and technical on-site SEO services.</h2>
 			<br>
-			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For a while I donated my time as a technical mentor as well.</p>
+			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For years I donated my time there as a technical mentor as well.</p>
 
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is:</b></p>
 			<ul class="hide_mobile">
@@ -127,7 +127,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li class="indent_list">NOT the inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
 			</ul>
 
-			<p>Feel free to add and follow me, and be sure to socialize and say "Hi" -lurking doesn't get you anywhere. The best way to get my attention is email, not the phone. I will reply, not always quickly, but I will get to it. I don't answer the phone or check voicemails, and I stay off chat services. Now you know how to get in touch, and knowing is half the battle... G.I Joe</p>
+			<p>Feel free to add/follow me, and be sure to say "Hi" &mdash; lurking doesn't get you anywhere. The best way to get my attention is email, not the phone. I will reply, not always quickly, but I will get to it. I don't answer the phone or check voicemails, and I stay off chat services. Now you know how to get in touch, and knowing is half the battle&hellip; G.I Joe</p>
 		</div>
 		<hr class="only_mobile">
 		<div class="span3">
