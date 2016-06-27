@@ -4,7 +4,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php echo($cr_title); ?></title>
@@ -35,22 +35,20 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 	<link rel="stylesheet" href="fonts/bebas-neue-fontfacekit/stylesheet.css">
 	<link rel="stylesheet" href="fonts/fanwood-fontfacekit/stylesheet.css">
 	<!-- facebook open graph protocol -->
+	<meta property="og:type" content="profile">
 	<meta property="fb:app_id" content="137499412985957">
 	<meta property="fb:admins" content="507282144">
+	<meta property="fb:profile_id" content="507282144">
 	<meta property="og:url" content="https://chuckreynolds.us">
 	<meta property="og:title" content="About Chuck Reynolds">
 	<meta property="og:site_name" content="About Chuck Reynolds">
 	<meta property="og:description" content="<?php echo($cr_desc); ?>">
-	<meta property="og:type" content="public_figure">
 	<meta property="og:image" content="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg">
 	<meta property="og:locale" content="en_US">
-	<meta property="og:email" content="talkto@chuckreynolds.us">
-	<meta property="og:latitude" content="37.771559">
-	<meta property="og:longitude" content="-122.413589">
-	<meta property="og:locality" content="San Francisco">
-	<meta property="og:region" content="CA">
-	<meta property="og:postal-code" content="94103">
-	<meta property="og:country-name" content="USA">
+	<meta property="profile:gender" content="male">
+	<meta property="profile:first_name" content="Chuck">
+	<meta property="profile:last_name" content="Reynolds">
+	<meta property="profile:username" content="chuckreynolds">
 	<!-- twitter card -->
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="chuckreynolds">
