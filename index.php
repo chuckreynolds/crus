@@ -175,16 +175,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 
 		<div class="span3 hide_mobile">
-			<h2 class="hide_mobile">In the Social</h2>
+			<h2 class="hide_mobile">Link Data</h2>
 			<ul class="hide_mobile">
 				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me">Twitter</a></li>
+				<li><a href="https://github.com/chuckreynolds/" title="Github">Github</a></li>
 				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me">LinkedIn</a></li>
 				<li><a href="https://www.youtube.com/chuckreynolds?sub_confirmation=1" title="YouTube" rel="me">YouTube VLOGS</a></li>
 				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me">Facebook</a></li>
 				<li><a href="https://www.snapchat.com/add/chuckreynolds" title="Snapchat Image Code">SnapChat</a></li>
 				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
-				<li><a href="https://github.com/chuckreynolds/ama" title="Github AMA">AMA</a></li>
 				<li><a href="https://refind.com/ChuckReynolds" title="Chuck's Saved Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
 						<li><a href="https://refind.com/ChuckReynolds/topics/wordpress">WordPress Resources</a></li>
