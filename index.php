@@ -169,7 +169,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin">Open Graph Metadata WordPress Plugin</a></li>
 				<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="Rynoweb WordPress plugin">Rynoweb WordPress Plugins</a></li>
 				<li><i><a href="http://hollywood.leve.rs/?utm_source=chuckreynolds.us" title="Levers Hollywood project">Levers Hollywood</a> (retired)</i></li>
-				<li><i><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin">TWIMLbin</a> (sold)</i></li>
+				<li><i><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin">TWIMLbin</a> (acquired)</i></li>
 				<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" rel="nofollow">Betwext SMS</a> (former)</i></li>
 			</ul>
 		</div>
