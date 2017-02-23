@@ -115,7 +115,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<br>
 			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left"><h2>Providing professional web strategy consulting, WordPress custom theme and plugin development, and technical on-site SEO services.</h2>
 			<br>
-			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For years I donated my time there as a technical mentor as well.</p>
+			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az from its inception, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For years I donated my time there as a technical mentor as well.</p>
 
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is:</b></p>
 			<ul class="hide_mobile">
@@ -167,7 +167,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<h2 class="hide_mobile">Projects</h2>
 			<ul class="hide_mobile">
 				<li><a href="http://wordpress.org/plugins/wp-facebook-open-graph-protocol/?utm_source=chuckreynolds.us" title="WordPress Facebook Open Graph Plugin">Open Graph Metadata WordPress Plugin</a></li>
-				<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="Rynoweb WordPress plugin">Rynoweb WordPress Plugins</a></li>
+				<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="My WordPress plugin">WordPress Plugins</a></li>
 				<li><i><a href="http://hollywood.leve.rs/?utm_source=chuckreynolds.us" title="Levers Hollywood project">Levers Hollywood</a> (retired)</i></li>
 				<li><i><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin">TWIMLbin</a> (acquired)</i></li>
 				<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" rel="nofollow">Betwext SMS</a> (former)</i></li>
@@ -179,11 +179,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<ul class="hide_mobile">
 				<li><a href="https://twitter.com/chuckreynolds" title="Twitter" rel="me">Twitter</a></li>
 				<li><a href="https://github.com/chuckreynolds/" title="Github">Github</a></li>
-				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me">LinkedIn</a></li>
-				<li><a href="https://www.youtube.com/chuckreynolds?sub_confirmation=1" title="YouTube" rel="me">YouTube VLOGS</a></li>
-				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me">Facebook</a></li>
-				<li><a href="https://www.snapchat.com/add/chuckreynolds" title="Snapchat Image Code">SnapChat</a></li>
 				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
+				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me">LinkedIn</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 				<li><a href="https://refind.com/ChuckReynolds" title="Chuck's Saved Bookmarks" rel="me">Bookmarked Resources</a>
 					<ul>
@@ -191,6 +188,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<li><a href="https://refind.com/ChuckReynolds/topics/tools">SEO &amp; Web Tools</a></li>
 					</ul>
 				</li>
+				<li><a href="https://www.youtube.com/chuckreynolds?sub_confirmation=1" title="YouTube" rel="me">YouTube vids</a></li>
+				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me">Facebook</a></li>
+				<li><a href="https://www.instagram.com/chuckreynolds/" title="Instagram profile">Instagram</a></li>
+				<li><a href="https://www.snapchat.com/add/chuckreynolds" title="Snapchat Image Code">SnapChat</a></li>
 				<li><a href="https://www.twilio.com/doers/Chuck-Reynolds" title="Twilio Doer Profile" rel="me">Twilio Doer</a></li>
 				<li><a href="https://plus.google.com/+ChuckReynolds?rel=author" title="Google Author Chuck Reynolds" rel="author me">Google+</a></li>
 			</ul>
@@ -202,23 +203,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 	</div>
 </div>
-
 <footer class="footer hide_mobile">
 	<div class="arrow_down_low"></div>
 	<div class="container">
-		<?php /*
-		<h3 id="twitter_status">Latest Tweets from <a href="http://twitter.com/chuckreynolds" rel="me">@chuckreynolds</a>:</h3>
-		<div id="twitter_div">
-			<ul id="twitter_update_list"></ul>
-		</div>
-			<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
-			<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/chuckreynolds.json?callback=twitterCallback2&amp;count=3"></script>
-		*/ ?>
 	</div>
 </footer>
-<?php /*
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-*/ ?>
 <script src="secretsquirrel.min.js"></script>
 <script>var secretsquirrel = new Konami();
 secretsquirrel.load('/secretsquirrel.htm');</script>
