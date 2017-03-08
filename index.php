@@ -208,7 +208,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="container">
 	</div>
 </footer>
-<script src="secretsquirrel.min.js"></script>
+<script async src="secretsquirrel.min.js"></script>
 <script>var secretsquirrel = new Konami();
 secretsquirrel.load('/secretsquirrel.htm');</script>
 </body>
