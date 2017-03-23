@@ -1,3 +1,21 @@
+/*font faces/coloring*/
+h1,h2,h3,h4 {
+	font-weight: normal!important;
+	text-rendering: auto;
+}
+h1 {
+	font:60px 'BebasNeueRegular', Arial, sans-serif;
+}
+h2{
+	font:27px 'FanwoodRegular', Arial, sans-serif;
+}
+h3{
+	font:23px 'BebasNeueRegular', Arial, sans-serif;
+	padding-top:10px;
+}
+h4{
+
+}
 /*borders*/
 .page-header{
 	border-color:black;
@@ -47,23 +65,6 @@ img {
 	 border-right:5px solid #999;
 }
 
-/*font faces/coloring*/
-h1,h2,h3,h4 {
-	font-weight: normal!important;
-}
-h1 {
-	font:60px 'BebasNeueRegular', Arial, sans-serif;
-}
-h2{
-	font:27px 'FanwoodRegular', Arial, sans-serif;
-}
-h3{
-	font:23px 'BebasNeueRegular', Arial, sans-serif;
-	padding-top:10px;
-}
-h4{
-
-}
 
 #main{
 	margin-top:25px;
