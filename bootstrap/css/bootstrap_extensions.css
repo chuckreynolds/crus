@@ -1,7 +1,6 @@
 /*font faces/coloring*/
 h1,h2,h3,h4 {
 	font-weight: normal!important;
-	text-rendering: auto;
 }
 h1 {
 	font:60px 'BebasNeueRegular', Arial, sans-serif;
