@@ -25,6 +25,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 	<meta name="tgn.nation" content="United States">
 	<!-- // end global positioning -->
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
+	<link rel="me" href="https://micro.blog/chuck">
 	<link rel="canonical" href="https://chuckreynolds.us">
 	<link rel="alternate" type="application/rss+xml" title="Rynoweb.com Company blog" href="http://rynoweb.com/feed">
 	<link rel="alternate" type="application/rss+xml" title="UpChuck - Atypical posts from an Average Chuck" href="http://upchuck.us/feed">
