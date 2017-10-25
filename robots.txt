@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /html
+Disallow: /lifestream
 Disallow: /wp-login.php
 
 User-Agent: T-1000
