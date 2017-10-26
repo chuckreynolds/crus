@@ -1,14 +1,14 @@
 <?php
-$cr_title = 'Chuck Reynolds - Web Strategy. Technical SEO. WordPress.';
-$cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and wordpress development in San Francisco';
+$ChuckTitle = "Chuck Reynolds - Web Strategy. Technical SEO. WordPress.";
+$ChuckDesc  = "Chuck is a consultant for technical on-site SEO, analytics, and WordPress development in San Francisco";
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# profile: http://ogp.me/ns/profile#">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title><?php echo($cr_title); ?></title>
-	<meta name="description" content="<?php echo($cr_desc); ?>">
+	<title><?php echo $ChuckTitle; ?></title>
+	<meta name="description" content="<?php echo $ChuckDesc; ?>">
 	<meta name="robots" content="noodp,noydir">
 	<meta name="referrer" content="origin-when-crossorigin">
 	<!-- global positioning GeoTag metadata -->
@@ -18,7 +18,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 	<meta name="geo.position" content="37.771559, -122.413589">
 	<!-- GeoURL metadata -->
 	<meta name="ICBM" content="37.771559, -122.413589">
-	<meta name="DC.title" content="<?php echo($cr_desc); ?>">
+	<meta name="DC.title" content="<?php echo $ChuckDesc; ?>">
 	<!-- Getty Thesaurus of Geographic Names (TGN) metadata -->
 	<meta name="tgn.id" content="2013951">
 	<meta name="tgn.name" content="Nob Hill">
@@ -43,7 +43,7 @@ $cr_desc  = 'Chuck is a consultant for technical on-site SEO and analytics and w
 	<meta property="og:url" content="https://chuckreynolds.us">
 	<meta property="og:title" content="About Chuck Reynolds">
 	<meta property="og:site_name" content="About Chuck Reynolds">
-	<meta property="og:description" content="<?php echo($cr_desc); ?>">
+	<meta property="og:description" content="<?php echo $ChuckDesc; ?>">
 	<meta property="og:image" content="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg">
 	<meta property="og:locale" content="en_US">
 	<meta property="profile:gender" content="male">
@@ -122,7 +122,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<ul class="hide_mobile">
 				<li class="indent_list">NOT associated with the RJ Reynolds Tobacco company (in fact, I don't smoke at all nor do I like being around it).</li>
 				<li class="indent_list">NOT receiving any royalties from the Alcoa corporation for the usage of "Reynolds Wrap," and all the grief I got about that name during grade-school (true story).</li>
-				<li class="indent_list">NOT part of the <a href="https://chuckreynolds.us" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
+				<li class="indent_list">NOT part of the <a href="http://chuckreynolds.com" rel="me" title="chuck reynolds car company">Chuck Reynolds Car Company</a>.</li>
 				<li class="indent_list">NOT the inspiration for the name of the popular <a href="http://j.mp/1cpZGk2" rel="nofollow" target="_blank">canvas sneakers</a>.</li>
 			</ul>
 
@@ -171,7 +171,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="http://rynoweb.com/wordpress-plugins/?utm_source=chuckreynolds.us" title="My WordPress plugin">WordPress Plugins</a></li>
 				<li><i><a href="http://hollywood.leve.rs/?utm_source=chuckreynolds.us" title="Levers Hollywood project">Levers Hollywood</a> (retired)</i></li>
 				<li><i><a href="http://twimlbin.com/?utm_source=chuckreynolds.us" title="TWIMLbin">TWIMLbin</a> (acquired)</i></li>
-				<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" rel="nofollow">Betwext SMS</a> (former)</i></li>
+				<li><i><a href="http://betwext.com/?utm_source=chuckreynolds.us" title="Betwext" rel="nofollow">Betwext SMS</a> (sold)</i></li>
 			</ul>
 		</div>
 
@@ -206,8 +206,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <footer class="footer hide_mobile">
 	<div class="arrow_down_low"></div>
-	<div class="container">
-	</div>
+	<div class="container"></div>
 </footer>
 <script src="secretsquirrel.min.js"></script>
 <script>var secretsquirrel = new Konami();
