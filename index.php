@@ -1,6 +1,6 @@
 <?php
 $ChuckTitle = "Chuck Reynolds - Web Strategy. Technical SEO. WordPress.";
-$ChuckDesc  = "Chuck is a consultant for technical on-site SEO, analytics, and WordPress development in San Francisco";
+$ChuckDesc  = "Chuck is a consultant for technical on-site SEO, web performance, analytics, and WordPress development in San Francisco";
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -9,21 +9,7 @@ $ChuckDesc  = "Chuck is a consultant for technical on-site SEO, analytics, and W
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?php echo $ChuckTitle; ?></title>
 	<meta name="description" content="<?php echo $ChuckDesc; ?>">
-	<meta name="robots" content="noodp,noydir">
 	<meta name="referrer" content="origin-when-crossorigin">
-	<!-- global positioning GeoTag metadata -->
-	<meta name="geo.country" content="US">
-	<meta name="geo.region" content="US-CA">
-	<meta name="geo.placename" content="SAN FRANCISCO, CA 94103, USA">
-	<meta name="geo.position" content="37.771559, -122.413589">
-	<!-- GeoURL metadata -->
-	<meta name="ICBM" content="37.771559, -122.413589">
-	<meta name="DC.title" content="<?php echo $ChuckDesc; ?>">
-	<!-- Getty Thesaurus of Geographic Names (TGN) metadata -->
-	<meta name="tgn.id" content="2013951">
-	<meta name="tgn.name" content="Nob Hill">
-	<meta name="tgn.nation" content="United States">
-	<!-- // end global positioning -->
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
 	<link rel="me" href="https://micro.blog/chuck">
 	<link rel="canonical" href="https://chuckreynolds.us">
@@ -112,9 +98,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="row" id="main">
 		<div class="span6">
 			<h2>Who is Chuck Reynolds?</h2>
-			<p>Hi, my name is Chuck. I'm here to provide web strategy &amp; project management, technical on-site SEO, and WordPress services. I practice the <a href="http://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I'm typically called in as a hired gun to fix far too many poorly-managed and poorly-built projects; so get in touch if you'd like a proper implementation. Currently reside in San Francisco, CA.</p>
+			<p>Hi, my name is Chuck. I'm here to provide web strategy &amp; project management, technical on-site SEO, and WordPress services. I practice the <a href="https://builditrightthefirsttime.com" title="Build It Right the First Time" rel="me">Build it Right the First Time</a> method, as I'm typically called in as a hired gun to fix far too many poorly-managed and poorly-built projects; so get in touch if you'd like a proper implementation. Currently reside in San Francisco, CA.</p>
 			<br>
-			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left"><h2>Providing professional web strategy consulting, WordPress custom theme and plugin development, and technical on-site SEO services.</h2>
+			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left"><h2>Providing professional web strategy consulting, WordPress custom theme and plugin development, and technical on-site SEO and web performance services.</h2>
 			<br>
 			<p>When I do find free time <em>(does that exist?)</em> I enjoy hiking, riding the trails on my mountain bike, and occasionally, I log on and play some video games to clear my head. In regard to local community, I organized the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a <a href="http://gangplankhq.com/" title="Gangplank collaborative workspace" rel="nofollow">collaborative workspace</a> in Chandler Az from its inception, PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club. For years I donated my time there as a technical mentor as well.</p>
 
@@ -199,7 +185,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<hr class="hide_mobile">
 			<h2 class="hide_mobile">Gamer Too?</h2>
 			<ul class="hide_mobile">
-				<li><a href="http://rynoranger.com" title="rynoranger games" rel="me">RynoRanger</a></li>
+				<li><a href="https://rynoranger.com" title="rynoranger games" rel="me">RynoRanger</a></li>
 			</ul>
 		</div>
 	</div>
