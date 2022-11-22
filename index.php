@@ -64,7 +64,9 @@ $ChuckDesc  = "Chuck is a consultant for technical on-site SEO, web performance,
 			"https://www.linkedin.com/in/chuckreynolds",
 			"https://www.facebook.com/chuckreynolds",
 			"https://www.instagram.com/chuckreynolds/",
-			"https://www.youtube.com/user/rynoweb"],
+			"https://www.youtube.com/user/rynoweb",
+			"https://chuckreynolds.tumblr.com/"
+		],
 		"brand": {
 			"@type"  : "Brand",
 			"name"   : "Vuurr",
@@ -164,10 +166,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<h2 class="hide_mobile">Link Data</h2>
 			<ul class="hide_mobile">
 				<li><a href="https://twitter.com/ChuckReynolds" title="Twitter" rel="me">Twitter</a></li>
-				<li><a href="https://mastodon.xyz/@chuck" title="Mastodon" rel="me">Mastodon</a></li>
-				<li><a href="https://github.com/chuckreynolds" title="Github">Github</a></li>
-				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
+				<li><a href="https://github.com/chuckreynolds" title="Github" rel="me">Github</a></li>
 				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me">LinkedIn</a></li>
+				<li><a href="https://chuckreynolds.tumblr.com/" title="Tumblr" rel="me">Tumblr</li>
+				<li><a href="https://mastodon.xyz/@chuck" title="Mastodon" rel="me">Mastodon</a></li>
+				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
 				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
 				<li><a href="https://refind.com/ChuckReynolds" title="Chuck's Saved Bookmarks" rel="me">Bookmarked Resources</a></li>
 				<li><a href="https://www.instagram.com/chuckreynolds/" title="Instagram profile">Instagram</a></li>
