@@ -13,6 +13,7 @@ $ChuckDesc  = "Chuck is a consultant for technical on-site SEO, web performance,
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
 	<meta name='ir-site-verification-token' value='-2082428433'>
 	<link rel="me" href="https://micro.blog/chuck">
+	<link rel="me" href="https://projectmushroom.social/@chuck">
 	<link rel="canonical" href="https://chuckreynolds.us">
 	<link rel="alternate" type="application/rss+xml" title="UpChuck - Atypical posts from an Average Chuck" href="https://upchuck.us/feed">
 	<link rel="alternate" type="application/rss+xml" title="Vuurr - Digital Consulting Services" href="https://vuurr.com/feed">
