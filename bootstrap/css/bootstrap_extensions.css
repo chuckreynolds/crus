@@ -5,24 +5,19 @@ h1,h2,h3,h4 {
 h1 {
 	font:60px 'BebasNeueRegular', Arial, sans-serif;
 }
-h2{
+h2 {
 	font:27px 'FanwoodRegular', Arial, sans-serif;
 }
-h3{
+h3 {
 	font:23px 'BebasNeueRegular', Arial, sans-serif;
 	padding-top:10px;
 }
-h4{
-
-}
 /*borders*/
-.page-header{
+.page-header {
 	border-color:black;
-}
-.page-header h1{
 	text-align:center;
 }
-hr{
+hr {
 	border:1px solid #666;
 }
 .arrow_down_high {
@@ -56,45 +51,45 @@ hr{
 }
 
 /*img*/
-.pull-left{
+.pull-left {
 	margin-right:10px;
 	margin-top:5px;
 }
 img {
-	 border-right:5px solid #999;
+	border-right:5px solid #999;
 }
 
 
-#main{
+#main {
 	margin-top:25px;
 	margin-bottom:25px;
 }
-li{
+li {
 	list-style-type:square;
 	line-height:175%;
 	margin-bottom:10px;
 	font-size:15px;
 
 }
-li.indent_list{
+li.indent_list {
 	margin-left:15px;
 }
-ul{
+ul {
 	margin-bottom:15px;
 	margin-top:15px;
 }
 li:lastchild {
 	padding-bottom:0px;
 }
-p{
+p {
 	color:#333;
 	line-height:185%;
 	font-size:14px;
 }
-a{
+a {
 	color:#09c;
 }
-body{
+body {
 	background-color:#f2f2f2;
 	color:#333;
 	border-top:5px solid #333;
@@ -108,7 +103,7 @@ p {
 
 /*tap zoom for IE8 shit*/
 canvas {
-		-ms-touch-action: double-tap-zoom;
+	-ms-touch-action: double-tap-zoom;
 }
 
 
