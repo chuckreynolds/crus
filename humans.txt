@@ -1,7 +1,7 @@
 /* TEAM */
 Tech Dork: Chuck Reynolds
 Twitter: @ChuckReynolds
-Location: San Francisco, CA, USA
+Location: Phoenix, AZ, USA
 
 /* SITE */
-Last update: 2019/06/19
+Last update: 2023/05/02
