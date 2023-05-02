@@ -102,8 +102,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="span6">
 			<h2>Who is Chuck Reynolds?</h2>
 			<p>Hello, my name is Chuck and I currently work as a product marketing manager based in Phoenix, AZ. I specialize in providing product strategy, project management, marketing guidance, and technical on-site SEO oversight to help businesses develop successful products.</p>
+
 			<img src="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg" height="150" width="150" alt="Chuck's beautiful headshot" class="pull-left">
+
 			<p>My extensive engineering experience, spanning from small-scale projects to large corporate ones, has had a significant influence on my marketing decisions. Similarly, my background in marketing has also shaped my approach to product development. All of my decisions are rooted in data and supported by years of experience.</p>
+
+			<p>If you're interested in working with me, please feel free to contact me by email. I'll respond as soon as possible.</p>
 
 			<p class="hide_mobile"><b>For the record, this Chuck Reynolds is:</b></p>
 			<ul class="hide_mobile">
@@ -115,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 			<p>Some legacy info: I previously organized and ran the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a collaborative workspace in Chandler Az, from its inception and donated my time there as a technical mentor for years. In smaller roles I helped in the success of PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club as well. Those were some fun days.</p>
 
-			<p>If you're interested in working with me, please feel free to contact me by email. I'll respond as soon as possible.</p>
+
 
 		</div>
 		<hr class="only_mobile">
