@@ -68,7 +68,7 @@ li {
 	list-style-type:square;
 	line-height:175%;
 	margin-bottom:10px;
-	font-size:15px;
+	font-size:16px;
 
 }
 li.indent_list {
@@ -84,7 +84,7 @@ li:lastchild {
 p {
 	color:#333;
 	line-height:185%;
-	font-size:14px;
+	font-size:16px;
 }
 a {
 	color:#09c;

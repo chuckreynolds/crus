@@ -118,9 +118,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</ul>
 
 			<p>Some legacy info: I previously organized and ran the first two WordCamps in Phoenix <em>(2009 &amp; 2011)</em>. I helped in the growth of Gangplank, a collaborative workspace in Chandler Az, from its inception and donated my time there as a technical mentor for years. In smaller roles I helped in the success of PodCampAZ, Ignite Phoenix, Arizona Entrepreneurship Conference and Social Media Club as well. Those were some fun days.</p>
-
-
-
 		</div>
 		<hr class="only_mobile">
 		<div class="span3">
