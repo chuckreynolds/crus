@@ -62,6 +62,7 @@ $ChuckDesc  = "Chuck specializes in providing product strategy, project manageme
 		"alumniOf"   : "Arizona State University",
 		"url"        : "https://chuckreynolds.us",
 		"sameAs"     : [ "https://twitter.com/chuckreynolds",
+			"https://www.threads.net/@chuckreynolds",
 			"https://www.linkedin.com/in/chuckreynolds",
 			"https://www.facebook.com/chuckreynolds",
 			"https://www.instagram.com/chuckreynolds/",
@@ -172,6 +173,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<h2 class="hide_mobile">Link Data</h2>
 			<ul class="hide_mobile">
 				<li><a href="https://twitter.com/ChuckReynolds" title="Twitter" rel="me">Twitter</a></li>
+				<li><a href="https://www.threads.net/@chuckreynolds" title="Threads" rel="me">Threads</a></li>
 				<li><a href="https://github.com/chuckreynolds" title="Github" rel="me">Github</a></li>
 				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me">LinkedIn</a></li>
 				<li><a href="https://staging.bsky.app/profile/chuckreynolds.com" title="Bluesky beta" rel="me">BlueSky</a></li>
