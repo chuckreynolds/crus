@@ -1,6 +1,6 @@
 <?php
-$ChuckTitle = "Chuck Reynolds - Technical Marketing & Product Engineering";
-$ChuckDesc  = "Chuck specializes in providing product strategy, project management, marketing guidance, and technical on-site SEO oversight to help businesses develop successful products.";
+$ChuckTitle = "Chuck Reynolds - Technical Product Manager and Marketing";
+$ChuckDesc  = "Chuck specializes in providing product strategy, project management, strategic marketing guidance, and technical SEO oversight to help businesses develop successful products.";
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -13,7 +13,6 @@ $ChuckDesc  = "Chuck specializes in providing product strategy, project manageme
 	<meta name="microid" content="mailto+http:sha1:518acdbdf5c826329e9f75e98bae9bd42b242f5b">
 	<meta name='ir-site-verification-token' value='-2082428433'>
 	<link rel="me" href="https://micro.blog/chuck">
-	<link rel="me" href="https://projectmushroom.social/@chuck">
 	<link rel="canonical" href="https://chuckreynolds.us">
 	<link rel="alternate" type="application/rss+xml" title="UpChuck - Atypical posts from an Average Chuck" href="https://upchuck.us/feed">
 	<link rel="alternate" type="application/rss+xml" title="Vuurr - Digital Consulting Services" href="https://vuurr.com/feed">
@@ -40,8 +39,8 @@ $ChuckDesc  = "Chuck specializes in providing product strategy, project manageme
 	<!-- twitter card -->
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="chuckreynolds">
-	<meta name="twitter:title" content="Technical Marketing & Product Engineering">
-	<meta name="twitter:description" content="An internet engineer of things; a technical search engine optimizer and overall digital architect and strategist for internet focused businesses.">
+	<meta name="twitter:title" content="Technical Product Manager and Marketing">
+	<meta name="twitter:description" content="An internet engineer of things; a technical search engine optimizer and product manager strategist for internet focused businesses.">
 	<meta name="twitter:creator" content="chuckreynolds">
 	<meta name="twitter:image:src" content="https://chuckreynolds.us/chuck-reynolds-BW-square.jpg">
 	<meta name="twitter:domain" content="ChuckReynolds.us">
@@ -52,7 +51,7 @@ $ChuckDesc  = "Chuck specializes in providing product strategy, project manageme
 		"@type"      : "Person",
 		"name"       : "Chuck Reynolds",
 		"gender"     : "male",
-		"height"     : "73 inches",
+		"height"     : "72 inches",
 		"birthPlace" : "Chicago, IL",
 		"birthDate"  : "1978-05-11",
 		"nationality": "United States",
@@ -172,18 +171,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="span3 hide_mobile">
 			<h2 class="hide_mobile">Link Data</h2>
 			<ul class="hide_mobile">
-				<li><a href="https://twitter.com/ChuckReynolds" title="Twitter" rel="me">Twitter</a></li>
-				<li><a href="https://www.threads.net/@chuckreynolds" title="Threads" rel="me">Threads</a></li>
+				<li><a href="https://x.com/ChuckReynolds" title="X (Twitter)" rel="me">X (Twitter)</a></li>
 				<li><a href="https://github.com/chuckreynolds" title="Github" rel="me">Github</a></li>
 				<li><a href="https://www.linkedin.com/in/chuckreynolds" title="LinkedIn Profile" rel="me">LinkedIn</a></li>
-				<li><a href="https://staging.bsky.app/profile/chuckreynolds.com" title="Bluesky beta" rel="me">BlueSky</a></li>
+				<li><a href="https://www.instagram.com/chuckreynolds/" title="Instagram profile">Instagram</a></li>
+				<li><a href="https://www.youtube.com/chuckreynolds?sub_confirmation=1" title="YouTube" rel="me">YouTube</a></li>
+				<li><a href="https://bsky.app/profile/chuckreynolds.com" title="Bluesky" rel="me">BlueSky</a></li>
+				<li><a href="https://www.threads.net/@chuckreynolds" title="Threads" rel="me">Threads</a></li>
 				<li><a href="https://chuckreynolds.tumblr.com/" title="Tumblr" rel="me">Tumblr</li>
 				<li><a href="https://mastodon.xyz/@chuck" title="Mastodon" rel="me">Mastodon</a></li>
 				<li><a href="https://gist.github.com/chuckreynolds" title="Gists Code Snippets" rel="me">Code Snippets</a></li>
-				<li><a href="https://clarity.fm/chuckreynolds" title="Chuck on Clarity fm" rel="me">Consulting via Clarity.fm</a></li>
-				<li><a href="https://refind.com/ChuckReynolds" title="Chuck's Saved Bookmarks" rel="me">Bookmarked Resources</a></li>
-				<li><a href="https://www.instagram.com/chuckreynolds/" title="Instagram profile">Instagram</a></li>
-				<li><a href="https://www.youtube.com/chuckreynolds?sub_confirmation=1" title="YouTube" rel="me">YouTube</a></li>
 				<li><a href="https://www.facebook.com/chuckreynolds" title="Facebook profile" rel="me">Facebook</a></li>
 			</ul>
 			<hr class="hide_mobile">
