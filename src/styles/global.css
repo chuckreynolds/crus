@@ -115,9 +115,40 @@ strong { font-weight: 600; }
 .socials {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.35rem 1rem;
+  gap: 0.5rem;
   padding: 0;
   list-style: none;
+}
+.socials a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  color: var(--fg-muted);
+  text-decoration: none;
+  border-radius: 6px;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+.socials a:hover,
+.socials a:focus-visible {
+  color: var(--fg);
+  background: var(--rule);
+  text-decoration: none;
+}
+.socials a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.socials svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+  display: block;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .socials a { transition: none; }
 }
 
 footer {
