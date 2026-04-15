@@ -1,0 +1,163 @@
+---
+import '../styles/global.css';
+
+const title = 'Chuck Reynolds — AI Product Strategy & Enterprise API Platforms';
+const description = 'Chuck Reynolds: Staff PM at Wikimedia Enterprise. AI product strategy, enterprise APIs, technical SEO, web performance.';
+const socialDescription = 'Chuck Reynolds: Staff Product Manager at Wikimedia Enterprise. AI product strategy and implementation, enterprise API platforms, technical SEO, web performance.';
+const canonical = 'https://chuckreynolds.com';
+const image = `${canonical}/chuck-reynolds-BW-square.jpg`;
+
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'Chuck Reynolds',
+  jobTitle: 'Staff Product Manager, Growth — Wikimedia Enterprise',
+  url: canonical,
+  email: 'mailto:hello@rynoweb.com',
+  image,
+  alumniOf: {
+    '@type': 'CollegeOrUniversity',
+    name: 'Arizona State University',
+  },
+  worksFor: {
+    '@type': 'Organization',
+    name: 'Wikimedia Foundation',
+    url: 'https://enterprise.wikimedia.com',
+  },
+  sameAs: [
+    'https://x.com/chuckreynolds',
+    'https://www.linkedin.com/in/chuckreynolds',
+    'https://github.com/chuckreynolds',
+    'https://bsky.app/profile/chuckreynolds.com',
+    'https://www.youtube.com/chuckreynolds',
+    'https://mastodon.xyz/@chuck',
+    'https://www.instagram.com/chuckreynolds/',
+  ],
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.ico" />
+
+    <meta property="og:type" content="profile" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={socialDescription} />
+    <meta property="og:image" content={image} />
+    <meta property="og:locale" content="en_US" />
+    <meta property="profile:first_name" content="Chuck" />
+    <meta property="profile:last_name" content="Reynolds" />
+    <meta property="profile:username" content="chuckreynolds" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@chuckreynolds" />
+    <meta name="twitter:creator" content="@chuckreynolds" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={socialDescription} />
+    <meta name="twitter:image" content={image} />
+
+    <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+  </head>
+
+  <body>
+    <main>
+      <h1>Chuck Reynolds</h1>
+      <p class="tagline">
+        AI product strategy &amp; enterprise API platforms. Technical SEO. Web performance.
+      </p>
+
+      <p>
+        Hi, I'm Chuck. I'm a <strong>Staff Product Manager, Growth</strong> at
+        <a href="https://enterprise.wikimedia.com" rel="me">Wikimedia Enterprise</a>,
+        the commercial API product for Wikipedia and the rest of the Wikimedia projects.
+        We build the tooling AI companies, search engines, and developers use to consume
+        Wikipedia content at scale. Knowledge as a service, literally.
+      </p>
+
+      <p>
+        Most of my brain cycles these days live at the intersection of
+        <strong>AI product strategy and implementation</strong> and
+        <strong>enterprise API product management</strong>: how to ship API platforms
+        that serve AI training and inference workloads at real scale, without losing
+        the humans in the loop. <em>Input data &rarr; output human guidance</em> has
+        been my tagline for years and it scales better than I expected.
+      </p>
+
+      <p>
+        Before Wikimedia, I spent years as a Senior Technical SEO Analyst inside
+        <strong>CBS Interactive / ViacomCBS</strong> (then <strong>Red Ventures</strong>,
+        post-acquisition), working across <strong>CNET, ZDNet, Gamespot, TechRepublic,
+        TvGuide, GiantBomb, MetaCritic, ETOnline, Comicbook.com</strong>, and a bunch of
+        other sites you've almost certainly clicked. Editorial, product, engineering,
+        commerce; I sat in the middle and translated. Search traffic acquisition,
+        architectural SEO, web performance, affiliate revenue.
+      </p>
+
+      <p>
+        Before that, ~15 years of self-employed and startup-land: cofounder, partner, COO,
+        whatever-needs-doing hat. Aerospace engineering leanings, data-oriented marketing by
+        practice.
+      </p>
+
+      <h2>What I'm building</h2>
+      <ul>
+        <li>
+          <a href="https://enterprise.wikimedia.com" rel="me"><strong>Wikimedia Enterprise</strong></a>
+          &mdash; APIs for Wikipedia and sibling projects. Free tier exists; go play.
+        </li>
+        <li>
+          <a href="https://vuurr.com" rel="me"><strong>Vuurr</strong></a>
+          &mdash; Partner since 2011. Digital intelligence firm: custom web apps,
+          technical audits, complex campaigns. Past and current clients include GitHub,
+          ASU, MIT Sloan, Supercell, Twilio, Parse (Meta), Cox, Keap, Mattermark.
+        </li>
+        <li>
+          <a href="https://rynoweb.com" rel="me"><strong>Rynoweb</strong></a>
+          &mdash; web tech consultancy I've been running since 2001.
+        </li>
+        <li>
+          <a href="https://upchuck.us" rel="me"><strong>UpChuck</strong></a>
+          &mdash; blog-shaped container for the thinking.
+        </li>
+        <li>
+          <a href="https://orbithull.com" rel="me"><strong>OrbitHull</strong></a>
+          &mdash; modular cargo containers for orbital tasking. (Yes, really.)
+        </li>
+      </ul>
+
+      <h2>Previously</h2>
+      <ul>
+        <li><strong>Levers</strong> &mdash; predictive modeling for adtech. 2nd place at Hollywood Hackathon 2013 applying the same math to IMDB box-office prediction. Retired.</li>
+        <li><strong>TWIMLbin</strong> &mdash; acquired by Twilio.</li>
+        <li><strong>Betwext</strong> &mdash; the first SMS marketing platform built on Twilio. Sold, and still running.</li>
+        <li>Organized the first two <strong>WordCamp Phoenix</strong> (2009, 2011). Helped grow <strong>Gangplank</strong>. Pitched in on PodCampAZ, Ignite Phoenix, AZ Entrepreneurship Conference.</li>
+        <li><strong>BS, Computer Information Technology</strong>, Arizona State University (2000).</li>
+      </ul>
+
+      <h2>Talk to me</h2>
+      <p>
+        email: <a href="mailto:hello@rynoweb.com" class="email">hello@rynoweb.com</a>
+      </p>
+      <ul class="socials">
+        <li><a href="https://x.com/chuckreynolds" rel="me">X</a></li>
+        <li><a href="https://www.linkedin.com/in/chuckreynolds" rel="me">LinkedIn</a></li>
+        <li><a href="https://github.com/chuckreynolds" rel="me">GitHub</a></li>
+        <li><a href="https://bsky.app/profile/chuckreynolds.com" rel="me">Bluesky</a></li>
+        <li><a href="https://www.youtube.com/chuckreynolds" rel="me">YouTube</a></li>
+        <li><a href="https://mastodon.xyz/@chuck" rel="me">Mastodon</a></li>
+        <li><a href="https://www.instagram.com/chuckreynolds/" rel="me">Instagram</a></li>
+      </ul>
+
+      <footer>
+        <p>&copy; Chuck Reynolds. Built with Astro. System fonts only. No trackers.</p>
+      </footer>
+    </main>
+  </body>
+</html>
