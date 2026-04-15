@@ -20,3 +20,6 @@ pnpm-debug.log*
 
 # local working files (linkedin export, etc.)
 tmp/
+
+# playwright mcp output
+.playwright-mcp/

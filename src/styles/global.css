@@ -1,20 +1,31 @@
 :root {
   --fg: #111;
   --fg-muted: #555;
-  --bg: #fdfdfc;
+  --bg: #f8fafc;
   --accent: #b03a2e;
   --rule: #e5e5e3;
   --measure: 40rem;
+  color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --fg: #e8e6e3;
     --fg-muted: #a8a6a2;
-    --bg: #141413;
+    --bg: #1a202c;
     --accent: #e87b6f;
     --rule: #2a2a28;
+    color-scheme: dark;
   }
+}
+
+:root[data-theme="dark"] {
+  --fg: #e8e6e3;
+  --fg-muted: #a8a6a2;
+  --bg: #1a202c;
+  --accent: #e87b6f;
+  --rule: #2a2a28;
+  color-scheme: dark;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -34,6 +45,20 @@ body {
   line-height: 1.55;
   font-feature-settings: "kern", "liga", "calt";
   text-rendering: optimizeLegibility;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+h2, .theme-toggle, .theme-toggle__thumb, footer {
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.theme-toggle__thumb {
+  transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body, h2, .theme-toggle, .theme-toggle__thumb, footer {
+    transition: none;
+  }
 }
 
 main {
@@ -101,4 +126,52 @@ footer {
   border-top: 1px solid var(--rule);
   color: var(--fg-muted);
   font-size: 0.9rem;
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  width: 56px;
+  height: 28px;
+  border-radius: 999px;
+  background: var(--rule);
+  border: 1px solid var(--fg-muted);
+  padding: 0;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 7px;
+}
+.theme-toggle svg {
+  width: 12px;
+  height: 12px;
+  fill: var(--fg);
+  position: relative;
+  z-index: 1;
+}
+.theme-toggle__thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 1px solid var(--fg-muted);
+  z-index: 2;
+}
+.theme-toggle:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--bg), 0 0 0 4px var(--accent);
+}
+
+:root[data-theme="dark"] .theme-toggle__thumb {
+  transform: translateX(26px);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle__thumb {
+    transform: translateX(26px);
+  }
 }
