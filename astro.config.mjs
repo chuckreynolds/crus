@@ -8,6 +8,5 @@ export default defineConfig({
   },
   image: {
     responsiveStyles: true,
-    objectFit: 'cover',
   },
 });
