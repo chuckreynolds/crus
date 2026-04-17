@@ -1,4 +1,6 @@
 ---
+import { Picture } from 'astro:assets';
+import headshot from '../assets/chuck-bmw-square.jpg';
 import '../styles/global.css';
 
 const title = 'Chuck Reynolds — AI Product Strategy & Enterprise API Platforms';
@@ -95,17 +97,34 @@ const personSchema = {
       <span class="theme-toggle__thumb" aria-hidden="true"></span>
     </button>
     <main>
-      <h1>Chuck Reynolds</h1>
-      <p class="tagline">
-        AI product strategy &amp; enterprise API platforms. Technical SEO. Web performance.
-      </p>
+      <header class="hero">
+        <figure class="hero__photo">
+          <Picture
+            src={headshot}
+            alt="Chuck Reynolds"
+            formats={['avif', 'webp']}
+            widths={[180, 220, 360, 440]}
+            sizes="(min-width: 640px) 220px, 180px"
+            loading="eager"
+            fetchpriority="high"
+          />
+        </figure>
+        <div class="hero__intro">
+          <h1>Chuck Reynolds</h1>
+          <p class="tagline">
+            AI product strategy &amp; enterprise API platforms. Technical SEO. Web performance.
+          </p>
+        </div>
+      </header>
 
       <p>
         Hi, I'm Chuck. I'm a <strong>Staff Product Manager, Growth</strong> at
         <a href="https://enterprise.wikimedia.com" rel="me">Wikimedia Enterprise</a>,
-        the commercial API product for Wikipedia and the rest of the Wikimedia projects.
-        We build the tooling AI companies, search engines, and developers use to consume
-        Wikipedia content at scale. Knowledge as a service, literally.
+        the commercial API product for Wikipedia, Wikidata, and the rest of the Wikimedia
+        projects. We build the tooling AI companies, search engines, and developers use to
+        consume it &mdash; hundreds of languages, tens of millions of articles, one of the
+        largest open knowledge graphs on the internet, and a real-time firehose of every
+        edit as it happens. Knowledge as a service, literally.
       </p>
 
       <p>
@@ -146,16 +165,16 @@ const personSchema = {
           ASU, MIT Sloan, Supercell, Twilio, Parse (Meta), Cox, Keap, Mattermark.
         </li>
         <li>
+          <a href="https://orbithull.com" rel="me"><strong>OrbitHull</strong></a>
+          &mdash; modular cargo containers for orbital tasking. (Yes, really.)
+        </li>
+        <li>
           <a href="https://rynoweb.com" rel="me"><strong>Rynoweb</strong></a>
           &mdash; web tech consultancy I've been running since 2001.
         </li>
         <li>
           <a href="https://upchuck.us" rel="me"><strong>UpChuck</strong></a>
           &mdash; blog-shaped container for the thinking.
-        </li>
-        <li>
-          <a href="https://orbithull.com" rel="me"><strong>OrbitHull</strong></a>
-          &mdash; modular cargo containers for orbital tasking. (Yes, really.)
         </li>
       </ul>
 
@@ -164,7 +183,7 @@ const personSchema = {
         <li><strong>Levers</strong> &mdash; predictive modeling for adtech. 2nd place at Hollywood Hackathon 2013 applying the same math to IMDB box-office prediction. Retired.</li>
         <li><strong>TWIMLbin</strong> &mdash; acquired by Twilio.</li>
         <li><strong>Betwext</strong> &mdash; the first SMS marketing platform built on Twilio. Sold, and still running.</li>
-        <li>Organized the first two <strong>WordCamp Phoenix</strong> (2009, 2011). Helped grow <strong>Gangplank</strong>. Pitched in on PodCampAZ, Ignite Phoenix, AZ Entrepreneurship Conference.</li>
+        <li>Organized the first two <strong>WordCamp Phoenix</strong> conferences (2009, 2011). Helped init and grow <strong>Gangplank</strong> a collaborative coworking space. Pitched in helping and/or organizing AZ Entrepreneurship Conference, PodCampAZ, Ignite Phoenix, and other local tech events (tweetups! early days were fun).</li>
         <li><strong>BS, Computer Information Technology</strong>, Arizona State University (2000).</li>
       </ul>
 

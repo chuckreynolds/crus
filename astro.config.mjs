@@ -6,4 +6,8 @@ export default defineConfig({
   build: {
     inlineStylesheets: 'always',
   },
+  image: {
+    responsiveStyles: true,
+    objectFit: 'cover',
+  },
 });
