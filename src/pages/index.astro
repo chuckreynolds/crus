@@ -3,11 +3,11 @@ import { Picture } from 'astro:assets';
 import headshot from '../assets/chuck-bmw-square.jpg';
 import '../styles/global.css';
 
-const title = 'Chuck Reynolds — AI Product Strategy & Enterprise API Platforms';
-const description = 'Chuck Reynolds: Staff PM at Wikimedia Enterprise. AI product strategy, enterprise APIs, technical SEO, web performance.';
-const socialDescription = 'Chuck Reynolds: Staff Product Manager at Wikimedia Enterprise. AI product strategy and implementation, enterprise API platforms, technical SEO, web performance.';
+const title = 'Chuck Reynolds - AI Product Strategy & Enterprise API Platforms';
+const description = 'Chuck Reynolds - Staff PM at Wikimedia Enterprise. AI product strategy, enterprise APIs, technical SEO, web performance.';
+const socialDescription = 'Chuck Reynolds - Staff Product Manager at Wikimedia Enterprise. AI product strategy and implementation, enterprise API platforms, technical SEO, web performance.';
 const canonical = 'https://chuckreynolds.com';
-const image = `${canonical}/chuck-reynolds-BW-square.jpg`;
+const image = `${canonical}/chuck-reynolds-social-card.jpg`;
 
 const personSchema = {
   '@context': 'https://schema.org',
@@ -46,7 +46,13 @@ const personSchema = {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#1a202c" />
 
     <meta property="og:type" content="profile" />
     <meta property="og:url" content={canonical} />
@@ -58,7 +64,7 @@ const personSchema = {
     <meta property="profile:last_name" content="Reynolds" />
     <meta property="profile:username" content="chuckreynolds" />
 
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@chuckreynolds" />
     <meta name="twitter:creator" content="@chuckreynolds" />
     <meta name="twitter:title" content={title} />
