@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://chuckreynolds.com',
@@ -9,4 +10,5 @@ export default defineConfig({
   image: {
     responsiveStyles: true,
   },
+  integrations: [sitemap()],
 });

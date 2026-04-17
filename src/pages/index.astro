@@ -8,32 +8,72 @@ const description = 'Chuck Reynolds - Staff PM at Wikimedia Enterprise. AI produ
 const socialDescription = 'Chuck Reynolds - Staff Product Manager at Wikimedia Enterprise. AI product strategy and implementation, enterprise API platforms, technical SEO, web performance.';
 const canonical = 'https://chuckreynolds.com';
 const image = `${canonical}/chuck-reynolds-social-card.jpg`;
+const imageAlt = 'Chuck Reynolds — AI product strategy & enterprise API platforms';
 
-const personSchema = {
+const siteId = `${canonical}/#website`;
+const pageId = `${canonical}/#webpage`;
+const personId = `${canonical}/#chuck`;
+
+const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'Person',
-  name: 'Chuck Reynolds',
-  jobTitle: 'Staff Product Manager, Growth — Wikimedia Enterprise',
-  url: canonical,
-  email: 'mailto:hello@rynoweb.com',
-  image,
-  alumniOf: {
-    '@type': 'CollegeOrUniversity',
-    name: 'Arizona State University',
-  },
-  worksFor: {
-    '@type': 'Organization',
-    name: 'Wikimedia Foundation',
-    url: 'https://enterprise.wikimedia.com',
-  },
-  sameAs: [
-    'https://x.com/chuckreynolds',
-    'https://www.linkedin.com/in/chuckreynolds',
-    'https://github.com/chuckreynolds',
-    'https://bsky.app/profile/chuckreynolds.com',
-    'https://www.youtube.com/chuckreynolds',
-    'https://mastodon.xyz/@chuck',
-    'https://www.instagram.com/chuckreynolds/',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': siteId,
+      url: canonical,
+      name: 'Chuck Reynolds',
+      description,
+      publisher: { '@id': personId },
+      copyrightHolder: { '@id': personId },
+      copyrightYear: new Date().getFullYear(),
+      inLanguage: 'en-US',
+    },
+    {
+      '@type': 'WebPage',
+      '@id': pageId,
+      url: canonical,
+      name: title,
+      description,
+      isPartOf: { '@id': siteId },
+      about: { '@id': personId },
+      primaryImageOfPage: image,
+      inLanguage: 'en-US',
+    },
+    {
+      '@type': 'Person',
+      '@id': personId,
+      name: 'Chuck Reynolds',
+      jobTitle: 'Staff Product Manager, Growth — Wikimedia Enterprise',
+      url: canonical,
+      email: 'mailto:hello@rynoweb.com',
+      image,
+      knowsAbout: [
+        'AI product strategy',
+        'Enterprise API product management',
+        'Wikipedia data',
+        'Knowledge graphs',
+        'Technical SEO',
+        'Web performance',
+      ],
+      alumniOf: {
+        '@type': 'CollegeOrUniversity',
+        name: 'Arizona State University',
+      },
+      worksFor: {
+        '@type': 'Organization',
+        name: 'Wikimedia Foundation',
+        url: 'https://enterprise.wikimedia.com',
+      },
+      sameAs: [
+        'https://x.com/chuckreynolds',
+        'https://www.linkedin.com/in/chuckreynolds',
+        'https://github.com/chuckreynolds',
+        'https://bsky.app/profile/chuckreynolds.com',
+        'https://www.youtube.com/chuckreynolds',
+        'https://mastodon.xyz/@chuck',
+        'https://www.instagram.com/chuckreynolds/',
+      ],
+    },
   ],
 };
 ---
@@ -43,9 +83,11 @@ const personSchema = {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
@@ -55,10 +97,14 @@ const personSchema = {
     <meta name="theme-color" content="#1a202c" />
 
     <meta property="og:type" content="profile" />
+    <meta property="og:site_name" content="Chuck Reynolds" />
     <meta property="og:url" content={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={socialDescription} />
     <meta property="og:image" content={image} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={imageAlt} />
     <meta property="og:locale" content="en_US" />
     <meta property="profile:first_name" content="Chuck" />
     <meta property="profile:last_name" content="Reynolds" />
@@ -70,8 +116,9 @@ const personSchema = {
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={socialDescription} />
     <meta name="twitter:image" content={image} />
+    <meta name="twitter:image:alt" content={imageAlt} />
 
-    <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
     <script is:inline>
       (function () {
