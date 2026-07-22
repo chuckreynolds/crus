@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "crus",
+  "compatibility_date": "2026-07-22",
+  "assets": {
+    "directory": "./dist/",
+    // Static site: unknown paths must 404, not fall back to index.html.
+    // "single-page-application" would serve index.html with a 200 for every
+    // miss, which Google treats as a soft 404.
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
+}

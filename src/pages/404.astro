@@ -1,0 +1,44 @@
+---
+import '../styles/global.css';
+
+const canonical = 'https://chuckreynolds.com';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, follow" />
+    <title>404 Not Found - Chuck Reynolds</title>
+    <meta name="description" content="That page does not exist." />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="theme-color" content="#1a202c" />
+
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem('theme');
+          if (stored === 'dark' || stored === 'light') {
+            document.documentElement.setAttribute('data-theme', stored);
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+
+  <body>
+    <main>
+      <h1>404</h1>
+      <p class="tagline">That page does not exist.</p>
+      <p>
+        Nothing here but a wrong URL. Head back to
+        <a href={canonical}>chuckreynolds.com</a>, or email
+        <a href="mailto:hello@chuckreynolds.com">hello@chuckreynolds.com</a>
+        if you think something is genuinely broken.
+      </p>
+    </main>
+  </body>
+</html>

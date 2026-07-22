@@ -1,0 +1,33 @@
+# Chuck Reynolds
+
+> Staff Product Manager, Growth at Wikimedia Enterprise, the commercial API
+> platform for Wikipedia, Wikidata, and the Wikimedia projects. AI training
+> data, retrieval and grounding, enterprise API strategy, and developer
+> experience.
+
+This is a single-page personal site. The homepage contains the complete
+content; every other link here points off-site. Contact: hello@chuckreynolds.com
+
+## Main
+
+- [Chuck Reynolds](https://chuckreynolds.com/): Bio, current work, background, contact.
+
+## Work
+
+- [Wikimedia Enterprise](https://enterprise.wikimedia.com): Training-data and retrieval APIs for Wikipedia and sibling projects.
+- [Structured Wikipedia on Hugging Face](https://huggingface.co/datasets/wikimedia/structured-wikipedia): Public dataset built from the structured-contents pipeline.
+- [Vuurr](https://vuurr.com): Digital intelligence firm. Partner since 2011.
+- [Rynoweb](https://rynoweb.com): Web tech consultancy, running since 2001.
+- [OrbitHull](https://orbithull.com): Modular cargo containers for orbital tasking.
+
+## Profiles
+
+- [GitHub](https://github.com/chuckreynolds)
+- [LinkedIn](https://www.linkedin.com/in/chuckreynolds)
+- [Bluesky](https://bsky.app/profile/chuckreynolds.com)
+- [X](https://x.com/chuckreynolds)
+- [Mastodon](https://mastodon.xyz/@chuck)
+
+## Optional
+
+- [UpChuck](https://upchuck.us): Blog.
