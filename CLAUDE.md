@@ -36,7 +36,7 @@ Both the pre-paint inline script and the bottom-of-body script must agree on thi
 
 ### Images
 
-Local images live in `src/assets/` so they go through Astro's asset pipeline (hashing, optimization, format conversion). Use `<Picture />` from `astro:assets` with `formats={['avif', 'webp']}`, explicit `widths` covering 1×/2× density, and a `sizes` value that matches the CSS breakpoint — see the headshot in `index.astro` for the pattern. Above-the-fold images use `loading="eager"` + `fetchpriority="high"` since they're the LCP. `astro.config.mjs` sets `image.responsiveStyles: true` and `image.objectFit: 'cover'` so generated `<img>` tags get sensible responsive sizing out of the box.
+Local images live in `src/assets/` so they go through Astro's asset pipeline (hashing, optimization, format conversion). Use `<Picture />` from `astro:assets` with `formats={['avif', 'webp']}`, explicit `widths` covering 1×/2× density, and a `sizes` value that matches the CSS breakpoint — see the headshot in `index.astro` for the pattern. Above-the-fold images use `loading="eager"` + `fetchpriority="high"` since they're the LCP. `astro.config.mjs` sets `image.responsiveStyles: true` so generated `<img>` tags get sensible responsive sizing out of the box.
 
 The social card image (`public/chuck-reynolds-BW-square.jpg`) is an exception — it must stay in `public/` because the OG/Twitter meta needs a stable absolute URL, not a content-hashed asset.
 

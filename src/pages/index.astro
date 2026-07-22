@@ -3,12 +3,12 @@ import { Picture } from 'astro:assets';
 import headshot from '../assets/chuck-bmw-square.jpg';
 import '../styles/global.css';
 
-const title = 'Chuck Reynolds - AI Product Strategy & Enterprise API Platforms';
-const description = 'Chuck Reynolds - Staff PM at Wikimedia Enterprise. AI product strategy, enterprise APIs, technical SEO, web performance.';
-const socialDescription = 'Chuck Reynolds - Staff Product Manager at Wikimedia Enterprise. AI product strategy and implementation, enterprise API platforms, technical SEO, web performance.';
+const title = 'Chuck Reynolds - AI Training Data & Enterprise API Platforms';
+const description = 'Chuck Reynolds - Staff PM at Wikimedia Enterprise, the API platform behind Wikipedia data. AI training corpora, retrieval and grounding, developer experience.';
+const socialDescription = 'Chuck Reynolds - Staff Product Manager at Wikimedia Enterprise. I ship the API platform that AI labs and search engines use for training data, retrieval, and grounding. AI product strategy, enterprise APIs, technical SEO.';
 const canonical = 'https://chuckreynolds.com';
 const image = `${canonical}/chuck-reynolds-social-card.jpg`;
-const imageAlt = 'Chuck Reynolds — AI product strategy & enterprise API platforms';
+const imageAlt = 'Chuck Reynolds: AI product strategy, enterprise APIs, and AI training data';
 
 const siteId = `${canonical}/#website`;
 const pageId = `${canonical}/#webpage`;
@@ -43,14 +43,22 @@ const jsonLd = {
       '@type': 'Person',
       '@id': personId,
       name: 'Chuck Reynolds',
-      jobTitle: 'Staff Product Manager, Growth — Wikimedia Enterprise',
+      jobTitle: 'Staff Product Manager, Growth at Wikimedia Enterprise',
       url: canonical,
       email: 'mailto:hello@chuckreynolds.com',
       image,
+      description:
+        'Staff Product Manager, Growth at Wikimedia Enterprise, the commercial API platform for Wikipedia and Wikidata. Builds the training corpora, retrieval APIs, and developer tooling that AI labs and search engines use to ground models in open knowledge.',
       knowsAbout: [
+        'AI training data',
+        'Retrieval-augmented generation',
+        'LLM grounding and attribution',
         'AI product strategy',
         'Enterprise API product management',
-        'Wikipedia data',
+        'Developer experience',
+        'Structured data extraction',
+        'ML data pipelines',
+        'Wikipedia and Wikidata',
         'Knowledge graphs',
         'Technical SEO',
         'Web performance',
@@ -165,7 +173,8 @@ const jsonLd = {
         <div class="hero__intro">
           <h1>Chuck Reynolds</h1>
           <p class="tagline">
-            AI product strategy &amp; enterprise API platforms. Technical SEO. Web performance.
+            AI training data &amp; enterprise API platforms. Developer experience.
+            Twenty-five years of making the web actually work.
           </p>
         </div>
       </header>
@@ -173,69 +182,76 @@ const jsonLd = {
       <p>
         Hi, I'm Chuck. I'm a <strong>Staff Product Manager, Growth</strong> at
         <a href="https://enterprise.wikimedia.com" rel="me">Wikimedia Enterprise</a>,
-        the commercial API product for Wikipedia, Wikidata, and the rest of the Wikimedia
-        projects. We build the tooling AI companies, search engines, and developers use to
-        consume it &mdash; hundreds of languages, tens of millions of articles, one of the
-        largest open knowledge graphs on the internet, and a real-time firehose of every
-        edit as it happens. Knowledge as a service, literally.
+        the commercial API platform for Wikipedia, Wikidata, and the rest of the Wikimedia
+        projects. Top AI labs and search engines use it two ways: as training data, and as
+        live retrieval and grounding at inference. Hundreds of languages, tens of millions
+        of articles, one of the largest open knowledge graphs on the internet, and a
+        real-time firehose of every edit as it happens.
       </p>
 
       <p>
-        Most of my brain cycles these days live at the intersection of
-        <strong>AI product strategy and implementation</strong> and
-        <strong>enterprise API product management</strong>: how to ship API platforms
-        that serve AI training and inference workloads at real scale, without losing
-        the humans in the loop. <em>Input data &rarr; output human guidance</em> has
-        been my tagline for years and it scales better than I expected.
+        The work I'm best at is <strong>developer experience</strong> and the data
+        plumbing underneath it. CLI tooling, API specs and docs, and pipelines that turn
+        messy structure into something usable on day one.
       </p>
 
       <p>
-        Before Wikimedia, I spent years as a Senior Technical SEO Analyst inside
-        <strong>CBS Interactive / ViacomCBS</strong> (then <strong>Red Ventures</strong>,
-        post-acquisition), working across <strong>CNET, ZDNet, Gamespot, TechRepublic,
-        TvGuide, GiantBomb, MetaCritic, ETOnline, Comicbook.com</strong>, and a bunch of
-        other sites you've almost certainly clicked. Editorial, product, engineering,
-        commerce; I sat in the middle and translated. Search traffic acquisition,
-        architectural SEO, web performance, affiliate revenue.
+        I build with AI as much as I build for it. Good tooling takes the ceiling off what
+        someone can do, developer or not, and that's the part I care about.
       </p>
 
       <p>
-        Before that, ~15 years of self-employed and startup-land: cofounder, partner, COO,
-        whatever-needs-doing hat. Aerospace engineering leanings, data-oriented marketing by
-        practice.
+        Twenty-five years got me here. Software engineering throughout, applied to
+        websites, ecommerce, marketing applications, and predictive analytics at
+        <strong>Levers</strong>: ML for revenue outcomes, back when we just called it
+        modeling. Years of it inside <strong>CBS Interactive / ViacomCBS</strong> (later
+        <strong>Red Ventures</strong>) as a Senior Technical SEO Analyst across CNET,
+        ZDNet, Gamespot, TechRepublic, MetaCritic and others, at a scale where mistakes
+        are expensive.
+      </p>
+
+      <p>
+        Two decades of how information gets structured, ranked, retrieved, and served.
+        That turns out to be the same problem AI is solving now.
       </p>
 
       <h2>What I'm building</h2>
       <ul>
         <li>
-          <a href="https://enterprise.wikimedia.com" rel="me"><strong>Wikimedia Enterprise</strong></a>
-          &mdash; APIs for Wikipedia and sibling projects. Free tier exists; go play.
+          <a href="https://enterprise.wikimedia.com" rel="me"><strong>Wikimedia Enterprise</strong></a>:
+          training-data and retrieval APIs for Wikipedia and sibling projects.
+          Free tier exists; go play.
         </li>
         <li>
-          <a href="https://vuurr.com" rel="me"><strong>Vuurr</strong></a>
-          &mdash; Partner since 2011. Digital intelligence firm: custom web apps,
+          <a href="https://github.com/chuckreynolds" rel="me"><strong>Open source odds and ends</strong></a>:
+          social image size references, helpers for running Claude more safely,
+          and whatever else I needed badly enough to build.
+        </li>
+        <li>
+          <a href="https://vuurr.com" rel="me"><strong>Vuurr</strong></a>:
+          Partner since 2011. Digital intelligence firm: custom web apps,
           technical audits, complex campaigns. Past and current clients include GitHub,
           ASU, MIT Sloan, Supercell, Twilio, Parse (Meta), Cox, Keap, Mattermark.
         </li>
         <li>
-          <a href="https://orbithull.com" rel="me"><strong>OrbitHull</strong></a>
-          &mdash; modular cargo containers for orbital tasking. (Yes, really.)
+          <a href="https://orbithull.com" rel="me"><strong>OrbitHull</strong></a>:
+          modular cargo containers for orbital tasking. (Yes, really.)
         </li>
         <li>
-          <a href="https://rynoweb.com" rel="me"><strong>Rynoweb</strong></a>
-          &mdash; web tech consultancy I've been running since 2001.
+          <a href="https://rynoweb.com" rel="me"><strong>Rynoweb</strong></a>:
+          web tech consultancy I've been running since 2001.
         </li>
         <li>
-          <a href="https://upchuck.us" rel="me"><strong>UpChuck</strong></a>
-          &mdash; blog-shaped container for the thinking.
+          <a href="https://upchuck.us" rel="me"><strong>UpChuck</strong></a>:
+          blog-shaped container for the thinking.
         </li>
       </ul>
 
       <h2>Previously</h2>
       <ul>
-        <li><strong>Levers</strong> &mdash; predictive modeling for adtech. 2nd place at Hollywood Hackathon 2013 applying the same math to IMDB box-office prediction. Retired.</li>
-        <li><strong>TWIMLbin</strong> &mdash; acquired by Twilio.</li>
-        <li><strong>Betwext</strong> &mdash; the first SMS marketing platform built on Twilio. Sold, and still running.</li>
+        <li><strong>Levers</strong>: the predictive modeling shop mentioned above. 2nd place at Hollywood Hackathon 2013 applying the same math to IMDB box-office prediction. Retired.</li>
+        <li><strong>TWIMLbin</strong>: acquired by Twilio.</li>
+        <li><strong>Betwext</strong>: the first SMS marketing platform built on Twilio. Sold, and still running.</li>
         <li>Organized the first two <strong>WordCamp Phoenix</strong> conferences (2009, 2011). Helped init and grow <strong>Gangplank</strong> a collaborative coworking space. Pitched in helping and/or organizing AZ Entrepreneurship Conference, PodCampAZ, Ignite Phoenix, and other local tech events (tweetups! early days were fun).</li>
         <li><strong>BS, Computer Information Technology</strong>, Arizona State University (2000).</li>
       </ul>
