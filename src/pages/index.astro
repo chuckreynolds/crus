@@ -19,17 +19,22 @@ function spellOut(n: number) {
 
 const yearsInWords = spellOut(thisYear - careerStart);
 
-// Real last-touched date for this page, not the build timestamp. Falls back to a
-// maintained constant when git history isn't available (shallow clone, tarball build).
+// Real last-touched date for this page, not the build timestamp.
 function lastModified() {
-  try {
-    const out = execSync('git log -1 --format=%cI -- src/pages/index.astro', {
-      encoding: 'utf8',
-      stdio: ['ignore', 'pipe', 'ignore'],
-    }).trim();
-    if (out) return out;
-  } catch (e) {}
-  return '2026-07-25T00:00:00-07:00';
+  const git = (args: string) => {
+    try {
+      return execSync(`git log -1 --format=%cI ${args}`, {
+        encoding: 'utf8',
+        stdio: ['ignore', 'pipe', 'ignore'],
+      }).trim();
+    } catch (e) {
+      return '';
+    }
+  };
+  // Pathspec is the accurate answer. Cloudflare builds from a shallow clone, so it
+  // comes back empty when the deploying commit didn't touch this page; the tip
+  // commit is the next best thing. Constant is the last resort (no git at all).
+  return git('-- src/pages/index.astro') || git('') || '2026-07-25T00:00:00-07:00';
 }
 
 const title = 'Chuck Reynolds - AI Training Data & Enterprise API Platforms';
