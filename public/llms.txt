@@ -17,7 +17,7 @@ content; every other link here points off-site. Contact: hello@chuckreynolds.com
 - [Wikimedia Enterprise](https://enterprise.wikimedia.com): Bulk data, retrieval, and grounding APIs for Wikipedia and sibling projects.
 - [Structured Wikipedia on Hugging Face](https://huggingface.co/datasets/wikimedia/structured-wikipedia): Public dataset published from the structured-contents pipeline.
 - [Vuurr](https://vuurr.com): Digital intelligence firm. Partner since 2011.
-- [Rynoweb](https://rynoweb.com): Web tech consultancy, running since 2001.
+- [Rynoweb](https://rynoweb.com): Web tech consultancy, running since 2000.
 - [OrbitHull](https://orbithull.com): Modular cargo containers for orbital tasking.
 
 ## Profiles
