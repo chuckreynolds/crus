@@ -37,12 +37,12 @@ function lastModified() {
   return git('-- src/pages/index.astro') || git('') || '2026-07-25T00:00:00-07:00';
 }
 
-const title = 'Chuck Reynolds - AI Training Data & Enterprise API Platforms';
-const description = 'Chuck Reynolds - Staff PM at Wikimedia Enterprise, the API platform behind Wikipedia data. AI training corpora, retrieval and grounding, developer experience.';
-const socialDescription = 'Chuck Reynolds - Staff Product Manager at Wikimedia Enterprise. I ship the API platform that AI labs and search engines use for training data, retrieval, and grounding. AI product strategy, enterprise APIs, technical SEO.';
+const title = 'Chuck Reynolds - AI Data Infrastructure & Enterprise API Platforms';
+const description = 'Chuck Reynolds - Staff PM at Wikimedia Enterprise, the commercial API platform for Wikipedia data. Retrieval and grounding APIs, delivery infrastructure, developer experience.';
+const socialDescription = 'Chuck Reynolds - Staff Product Manager at Wikimedia Enterprise. I ship the APIs and pipelines that AI labs and search engines use to consume Wikipedia and Wikidata at scale, as bulk data for training and as live retrieval and grounding. AI product strategy, enterprise APIs, technical SEO.';
 const canonical = 'https://chuckreynolds.com';
 const image = `${canonical}/chuck-reynolds-social-card.jpg`;
-const imageAlt = 'Chuck Reynolds: AI product strategy, enterprise APIs, and AI training data';
+const imageAlt = 'Chuck Reynolds: AI product strategy, enterprise APIs, and open knowledge infrastructure';
 // The social card is a composed 1200x630 graphic: right for OG/Twitter, wrong for
 // Person.image, which wants the actual headshot.
 const headshotUrl = `${canonical}${headshot.src}`;
@@ -95,9 +95,9 @@ const jsonLd = {
         caption: 'Chuck Reynolds',
       },
       description:
-        'Staff Product Manager, Growth at Wikimedia Enterprise, the commercial API platform for Wikipedia and Wikidata. Builds the training corpora, retrieval APIs, and developer tooling that AI labs and search engines use to ground models in open knowledge.',
+        'Staff Product Manager, Growth at Wikimedia Enterprise, the commercial API platform for Wikipedia and Wikidata. Builds the delivery infrastructure, retrieval APIs, and developer tooling that AI labs, search engines, and researchers use to consume open knowledge at scale.',
       knowsAbout: [
-        'AI training data',
+        'AI training data delivery',
         'Retrieval-augmented generation',
         'LLM grounding and attribution',
         'AI product strategy',
@@ -252,7 +252,7 @@ const jsonLd = {
         <div class="hero__intro">
           <h1>Chuck Reynolds</h1>
           <p class="tagline">
-            AI training data &amp; enterprise API platforms. Developer experience.
+            AI data infrastructure &amp; enterprise API platforms. Developer experience.
             {yearsInWords} years of making the web actually work.
           </p>
         </div>
@@ -262,9 +262,11 @@ const jsonLd = {
         Hi, I'm Chuck. I'm a <strong>Staff Product Manager, Growth</strong> at
         <a href="https://enterprise.wikimedia.com">Wikimedia Enterprise</a>,
         the commercial API platform for Wikipedia, Wikidata, and the rest of the Wikimedia
-        projects. Top AI labs and search engines use it two ways: as training data, and as
-        live retrieval and grounding at inference. Hundreds of languages, tens of millions
-        of articles, one of the largest open knowledge graphs on the internet, and a
+        projects. We build the delivery mechanisms: the APIs, pipelines, and tooling that
+        let commercial reusers consume it at scale and at high frequency. Top AI labs and
+        search engines use it two ways: as bulk data for training, and as live retrieval
+        and grounding at inference. Tens of millions of articles across hundreds of
+        languages, one of the largest open knowledge graphs on the internet, and a
         real-time firehose of every edit as it happens.
       </p>
 
@@ -275,8 +277,25 @@ const jsonLd = {
       </p>
 
       <p>
-        I build with AI as much as I build for it. Good tooling takes the ceiling off what
-        someone can do, developer or not, and that's the part I care about.
+        I build with agents as much as I build for them. Multi-agent workflows in large
+        codebases: continuous code improvement, review of new work, security scanning
+        across the whole repo. Micro models for intent interpretation. Planning sessions
+        that used to take a team several weeks. Specs, docs, evals, data wrangling,
+        one-off scripts. Terminal and browser mostly, less IDE than when I was writing
+        every line myself.
+      </p>
+
+      <p>
+        It works because writing a good spec for an agent is the same job as writing a
+        good PRD, which I've been doing for years, and because I stay in the loop to
+        course correct. That's the part people skip.
+      </p>
+
+      <p>
+        I build the groundwork too, so a team can do this safely: agent instruction files,
+        a knowledge hub, reusable skills for growth and marketing, tone and disclosure
+        rules for anything published, and tooling for keeping PII and secrets out of agent
+        workflows. Guardrails before the team needs them, not after something goes wrong.
       </p>
 
       <p>
@@ -299,7 +318,7 @@ const jsonLd = {
       <ul>
         <li>
           <a href="https://enterprise.wikimedia.com"><strong>Wikimedia Enterprise</strong></a>:
-          training-data and retrieval APIs for Wikipedia and sibling projects.
+          bulk data, retrieval, and grounding APIs for Wikipedia and sibling projects.
           Free tier exists; go play.
         </li>
         <li>
